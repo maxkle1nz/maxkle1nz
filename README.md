@@ -1,26 +1,38 @@
-At 12, in Sao Paulo, I wired an electric guitar into a PC's line-in and heard something that shouldn't exist.
+At 12, in Sao Paulo, I plugged an electric guitar into a PC's line-in and heard something that shouldn't exist.
 
-I spent the next 15 years building music. 200+ shows. 9 Platinum records. Sanremo. MTV EMAs. Three sub-labels under Warner and Universal. I learned that a band is an ecosystem, a stage is an architecture, and a song is a system that either breathes or doesn't.
+I spent the next 15 years building music: 200+ shows, 9 platinum records, Sanremo, MTV EMAs, and label systems under Warner and Universal. That taught me something I still use every day: a band is an ecosystem, a stage is an architecture, and a song is a system that either breathes or doesn't.
 
-Then I noticed: color is frequency, sound is frequency, data is frequency. The frequency stays the same. Only the instrument changes.
+Now I build living systems for intelligence.
 
-Now I build living systems.
+Color is frequency. Sound is frequency. Data is frequency.  
+The frequency stays the same. Only the instrument changes.
 
----
+## What I'm building
 
 ### [m1nd](https://github.com/maxkle1nz/m1nd)
-Neuro-symbolic code graph engine. Hebbian plasticity on a weighted connectome &mdash; edges strengthen when confirmed, weaken when wrong. 43 MCP tools. 31ms queries. $0.00/query. Rust.
-
-Grep finds what exists. m1nd finds what's missing.
+A local code graph engine for MCP agents. Proof-aware state, guided next steps, continuity, and safer edits.  
+Grep finds what exists. m1nd finds what is missing.
 
 ### [war-room](https://github.com/maxkle1nz/war-room)
-Multi-agent decision framework with a built-in devil's advocate. 11 specialist agents, 19 adversarial protocols, wave-based execution. AI that argues back ships better.
+A multi-agent decision framework with a built-in devil's advocate.  
+AI that argues back ships better.
 
-### RESON
-The living map of music. Coming.
+### [Brotherizer](https://github.com/maxkle1nz/Brotherizer)
+A rewrite engine that gives LLM text a pulse.  
+Not cleaner text. Text with tension, timing, and breath.
 
----
+### [BANNED BY ANTHROPIC](https://github.com/maxkle1nz/banned-by-anthropic-public)
+The public institutional archive for the campaign.  
+Pressure turned into narrative, artifact, and memory.
+
+## Thesis
+
+I build systems where:
+- agents do not guess blindly
+- decisions survive disagreement
+- text feels alive
+- structure matters as much as output
 
 *Human in the room, not in the loop.*
 
-<sub>COSMOPHONIX INTELLIGENCE &middot; Italy</sub>
+<sub>COSMOPHONIX INTELLIGENCE · Italy</sub>
