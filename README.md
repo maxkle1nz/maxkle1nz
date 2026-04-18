@@ -1,72 +1,61 @@
-# Max Kle1nz
+# Hi, I'm Max
 
 **Building systems for humans and AI.**
 
-I design and build systems for **memory, continuity, coordination, and creative leverage**, especially where humans and AI need to work together without losing structure, proof, or intent.
+![Agent Infrastructure](https://img.shields.io/badge/Agent%20Infrastructure-111111?style=flat-square)
+![Local First](https://img.shields.io/badge/Local%20First-0F172A?style=flat-square)
+![Creative Software](https://img.shields.io/badge/Creative%20Software-1F2937?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Human + AI](https://img.shields.io/badge/Human%20%2B%20AI-111827?style=flat-square)
 
-I’m the founder of **Cosmophonix**, a multi-diamond creative company spanning direction, sound, language, and systems, and an artistic director / music producer behind platinum and gold records, with work recognized by the **EMA** and **Latin Grammy**.
+I build systems for **memory, continuity, coordination, and creative leverage**, especially where humans and AI need to work together without losing structure, proof, or intent.
 
-More recently, my focus has been on **agent infrastructure**, **local-first tooling**, and **creative software** that makes machine collaboration more reliable, more legible, and more human-aware.
+I’m the founder of **Cosmophonix**, and an artistic director / music producer behind platinum and gold records, with work recognized by the **EMA** and **Latin Grammy**.
 
----
+## Current Projects
 
-## Start here
+- **[m1nd](https://github.com/maxkle1nz/m1nd)**: local code graph engine for agents, built around proof-aware state, guided next steps, continuity, and safer edits
+- **[war-room](https://github.com/maxkle1nz/war-room)**: multi-agent decision system with built-in productive conflict
+- **[Brotherizer](https://github.com/maxkle1nz/Brotherizer)**: rewrite engine for stronger rhythm, tone, and intent
+- **[RETROBUILDER](https://github.com/maxkle1nz/RETROBUILDER)**: structured building system for continuity, composition, and reusable parts
 
-If you're new to my work:
+If you only open one project, start with **[m1nd](https://github.com/maxkle1nz/m1nd)**.
 
-- **[m1nd](https://github.com/maxkle1nz/m1nd)**: local code graph engine for agents, built around proof-aware state, guided next steps, continuity, and safer edits  
-- **[war-room](https://github.com/maxkle1nz/war-room)**: multi-agent decision system with built-in productive conflict and a devil’s advocate by design  
-- **[Brotherizer](https://github.com/maxkle1nz/Brotherizer)**: rewrite engine for giving LLM text stronger rhythm, tone, and intent  
-- **[RETROBUILDER](https://github.com/maxkle1nz/RETROBUILDER)**: structured building system for continuity, composition, and reusable parts  
+## What I'm building now
 
-If you only open one project, start with **m1nd**.
+- continuity-first agent infrastructure
+- local-first tools
+- creative software with strong product identity
+- better workflows for humans and AI
+- systems that stay legible under change
 
----
+## Selected Work
 
-## What I work on
+- Founder, **Cosmophonix Intelligence**
+- Artistic direction, music production, and systems design
+- AI systems focused on memory, continuity, and coordination
+- Creative and technical work recognized across music and software
 
-I’m interested in systems that make AI collaboration less brittle:
+## GitHub Activity
 
-- agent memory and continuity  
-- local-first architecture  
-- proof-aware workflows  
-- human + AI coordination  
-- creative tools with strong product identity  
-- composable systems that stay legible under change  
+![GitHub Contribution Graph](https://ghchart.rshah.org/maxkle1nz)
 
----
+## Philosophy
 
-## Design principles
+<details>
+<summary>Open</summary>
+<br>
 
-- **continuity over statelessness**
-- **proof before action**
-- **local-first where possible**
-- **systems over prompt tricks**
-- **human judgment stays in the loop**
-- **tools should be rigorous and expressive**
-- **product identity matters**
+- continuity over statelessness
+- proof before action
+- systems over prompt tricks
+- human judgment stays in the loop
+- tools should be rigorous and expressive
 
----
+</details>
 
-## Current work
+## Connect
 
-- **m1nd**: infrastructure for agent grounding, code understanding, and safer change  
-- **war-room**: adversarial collaboration for better decisions, strategy, and product thinking  
-- **Brotherizer**: language shaping engine for style, force, rhythm, and voice  
-- **RETROBUILDER**: a system for building through continuity instead of fragmentation  
-
----
-
-## Why this direction
-
-A lot of AI tooling still breaks in the same places:  
-loss of context, shallow retrieval, weak continuity, brittle edits, and systems that cannot explain why they acted.
-
-I care about building tools that help solve that, not just by making models more capable, but by giving them **better structure, memory, interfaces, and operational discipline**.
-
----
-
-## Elsewhere
-
-- Instagram: [@maxkle1nz](https://instagram.com/maxkle1nz)
-- Email: [kle1nz@cosmophonix.com](mailto:kle1nz@cosmophonix.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@maxkle1nz-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/maxkle1nz)
+[![Email](https://img.shields.io/badge/Email-kle1nz@cosmophonix.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:kle1nz@cosmophonix.com)
