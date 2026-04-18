@@ -41,20 +41,6 @@ If you only open one project, start with **[m1nd](https://github.com/maxkle1nz/m
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/maxkle1nz)
 
-## Philosophy
-
-<details>
-<summary>Open</summary>
-<br>
-
-- continuity over statelessness
-- proof before action
-- systems over prompt tricks
-- human judgment stays in the loop
-- tools should be rigorous and expressive
-
-</details>
-
 ## Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-@maxkle1nz-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/maxkle1nz)
