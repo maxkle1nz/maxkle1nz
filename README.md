@@ -32,6 +32,14 @@ keep their intent intact across time.
 
 
 
+Currently maintaining **[BANNED BY ANTHROPIC](https://bannedbyanthropic.com/)**:
+
+an independent public record for Claude and Anthropic account lockouts.
+
+The public archive lives at **[maxkle1nz/banned-by-anthropic-public](https://github.com/maxkle1nz/banned-by-anthropic-public)**.
+
+
+
 ---
 
 
@@ -41,6 +49,14 @@ keep their intent intact across time.
 
 
 Five movements of the same composition.
+
+
+
+→ **[BANNED BY ANTHROPIC](https://github.com/maxkle1nz/banned-by-anthropic-public)**
+
+Independent public record for Claude and Anthropic account lockouts.
+
+Built to keep documented cases visible, citable, and correctable.
 
 
 
@@ -112,5 +128,4 @@ Agents are the same problem, different bitrate.
 
 **Cosmophonix Intelligence** — kle1nz@cosmophonix.com  
 
-[Instagram](https://instagram.com/maxkle1nz)
-
+[X / Twitter](https://x.com/kle1nzzz) · [Instagram](https://instagram.com/maxkle1nz)
