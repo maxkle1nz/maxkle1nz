@@ -2,7 +2,7 @@
 
 
 
-I produce records and I build agent infrastructure.
+I produce records and I engineer cognitive systems.
 
 Same craft. Different medium.
 
@@ -48,7 +48,13 @@ The public archive lives at **[maxkle1nz/banned-by-anthropic-public](https://git
 
 
 
-Five movements of the same composition.
+The movements of the same composition.
+
+
+
+→ **S∆MBA / doob [Private Core]**
+
+The operating system for human intent. The structural gravity layer where ideas turn into Proof Grown Systems before they are allowed to mutate the real world.
 
 
 
