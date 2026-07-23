@@ -28,16 +28,16 @@ The repos are the pitch.
 
 <!-- now-playing:start -->
 <p>
-<a href="https://github.com/maxkle1nz/temponizer-paper"><img src="assets/cards/temponizer-paper.svg" width="415" alt="temponizer-paper"></a>
+<a href="https://github.com/maxkle1nz/deviance.dev"><img src="assets/cards/deviance.dev.svg" width="415" alt="deviance.dev"></a>
+<a href="https://github.com/maxkle1nz/m1nd"><img src="assets/cards/m1nd.svg" width="415" alt="m1nd"></a>
+</p>
+<p>
 <a href="https://github.com/maxkle1nz/synt0ny"><img src="assets/cards/synt0ny.svg" width="415" alt="synt0ny"></a>
+<a href="https://github.com/maxkle1nz/temponizer-paper"><img src="assets/cards/temponizer-paper.svg" width="415" alt="temponizer-paper"></a>
 </p>
 <p>
 <a href="https://github.com/maxkle1nz/deviance-skills"><img src="assets/cards/deviance-skills.svg" width="415" alt="deviance-skills"></a>
 <a href="https://github.com/maxkle1nz/thebridge"><img src="assets/cards/thebridge.svg" width="415" alt="thebridge"></a>
-</p>
-<p>
-<a href="https://github.com/maxkle1nz/almus"><img src="assets/cards/almus.svg" width="415" alt="almus"></a>
-<a href="https://github.com/maxkle1nz/l00p"><img src="assets/cards/l00p.svg" width="415" alt="l00p"></a>
 </p>
 <!-- now-playing:end -->
 
