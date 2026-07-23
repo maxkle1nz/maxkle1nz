@@ -3,50 +3,57 @@
 I produce records and I engineer cognitive systems.
 Same craft. Different medium.
 
-Platinum, gold, Latin Grammy, EMA — in music.
-Continuity, memory, proof, intent — in code.
+Platinum and gold records in music. These days most of my hours go into
+tools for coding agents: memory, proof, continuity.
 
-I treat agents the way I treat records:
-foreground, midground, background.
-Energy preserved across the chain.
-Nothing flat. Nothing decaying.
+Founder, **Cosmophonix**. I build at **DEViance Intelligence** — *beyond the edge*.
 
-Founder, **Cosmophonix Intelligence**.
-Building the layer where humans and AI 
-keep their intent intact across time.
-
-Currently maintaining **[BANNED BY ANTHROPIC](https://bannedbyanthropic.com/)**:
-an independent public record for Claude and Anthropic account lockouts.
-The public archive lives at **[maxkle1nz/banned-by-anthropic-public](https://github.com/maxkle1nz/banned-by-anthropic-public)**.
+I'm a prototyper. Ideas come in bursts and I publish them on purpose.
+Most repos here never reached a finish line — that's what prototyping is.
+Each one says what works, what doesn't, and where I stopped. The ones that
+catch, I maintain. The rest are open so someone else can pick them up and
+run with them. Nobody builds anything alone.
 
 ---
 
-## What I'm building
+## Systems I maintain
 
-The movements of the same composition.
+→ **[m1nd](https://github.com/maxkle1nz/m1nd)** — structural truth for coding agents,
+so they navigate the codebase instead of guessing it.
 
-→ **[BANNED BY ANTHROPIC](https://github.com/maxkle1nz/banned-by-anthropic-public)**
+→ **[war-room](https://github.com/maxkle1nz/war-room)** — AI that argues back.
+Multi-agent decisions with a built-in devil's advocate.
 
-Independent public record for Claude and Anthropic account lockouts.
-Built to keep documented cases visible, citable, and correctable.
+→ **[BANNED BY ANTHROPIC](https://github.com/maxkle1nz/banned-by-anthropic-public)** —
+independent public record for Claude and Anthropic account lockouts.
 
-→ **[m1nd](https://github.com/maxkle1nz/m1nd)**  
+## The lab — open prototypes
 
-Structural truth for coding agents.  
-So they navigate the codebase instead of guessing it.
+→ **[temponizer-paper](https://github.com/maxkle1nz/temponizer-paper)** — AI agents don't know how fast they are. A paper that measures the gap.
+→ **[synt0ny](https://github.com/maxkle1nz/synt0ny)** — the geometry of meaning in local embeddings, measured under sealed pre-registrations.
+→ **[v1truvio](https://github.com/maxkle1nz/v1truvio)** — not a design system; the compiler that generates them.
+→ **[l00p](https://github.com/maxkle1nz/l00p)** — Opus orchestrates, Codex executes, a deterministic gate closes the loop.
+→ **[almus](https://github.com/maxkle1nz/almus)** — agent-first CSS design system. The vocabulary is a written contract.
+→ **[thebridge](https://github.com/maxkle1nz/thebridge)** — the AI access you already have, behind one local OpenAI-compatible surface.
+→ **[pathos](https://github.com/maxkle1nz/pathos)** — continuity protocol for long human+agent sessions.
+→ **[Brotherizer](https://github.com/maxkle1nz/Brotherizer)** — the rewrite engine that gives LLM text a pulse.
+
+Each README opens with an honest status. Start there, fork what you want.
+
+## Skills — the method, packaged
+
+→ **[deviance-skills](https://github.com/maxkle1nz/deviance-skills)** — the operating doctrine my agents carry,
+for Claude Code and Codex. Eleven skills that survived daily use — counterpoint, proof-first building,
+session continuity, repo health, git hygiene. One of them ships with its own blind A/B evidence.
+
+→ **[kognit1v](https://github.com/maxkle1nz/kognit1v-intelligence-systems)** — 13 cognitive skills for Codex. The first pack.
 
 ---
 
-## Working principles
-
-Local first. Proof over vibes. 
-Intent preserved end to end.
-Systems that stay legible under change.
-
-Records taught me how energy survives compression.
-Agents are the same problem, different bitrate.
-
----
-
-**Cosmophonix Intelligence** — kle1nz@cosmophonix.com  
-[X / Twitter](https://x.com/kle1nzzz) · [Instagram](https://instagram.com/maxkle1nz)
+<p align="center">
+  <img src="assets/deviance-prism-icon.png" width="56" alt="DEViance Intelligence">
+  <br>
+  <sub><b>DEViance Intelligence</b> — <i>beyond the edge</i> · Cosmophonix · kleinz@cosmophonix.com</sub>
+  <br>
+  <sub><a href="https://x.com/kle1nzzz">X / Twitter</a> · <a href="https://instagram.com/maxkle1nz">Instagram</a></sub>
+</p>
