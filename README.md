@@ -147,7 +147,7 @@ training all along. The other studio: [cosmophonix.com](https://cosmophonix.com)
 <p align="center">
   <img src="assets/deviance-prism-icon.png" width="56" alt="DEViance Intelligence">
   <br>
-  <sub><b>DEViance Intelligence</b> — <i>beyond the edge</i> · Cosmophonix · kleinz@cosmophonix.com</sub>
+  <sub><a href="https://maxkle1nz.github.io/deviance.dev/"><b>DEViance Intelligence</b></a> — <i>beyond the edge</i> · Cosmophonix · kleinz@cosmophonix.com</sub>
   <br>
   <sub><a href="https://x.com/kle1nzzz">X / Twitter</a> · <a href="https://instagram.com/maxkle1nz">Instagram</a></sub>
 </p>
