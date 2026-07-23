@@ -11,19 +11,16 @@
 
 # Max Kleinz
 
-I produce records and I engineer cognitive systems.
-Same craft. Different medium.
+I made records for two decades. Now I build machines that think in code.
+Same job: press record, keep what's true, cut the rest.
 
-Platinum and gold records in music. These days most of my hours go into
-tools for coding agents: memory, proof, continuity.
+I'm a prototyper. Ideas hit in bursts and I ship them raw, on purpose.
+Half of this never reached a finish line — that's the point. Every repo
+says what works, what doesn't, where I stopped. Take one and run.
+Nobody builds anything alone.
 
-Founder, **Cosmophonix**. I build at **DEViance Intelligence** — *beyond the edge*.
-
-I'm a prototyper. Ideas come in bursts and I publish them on purpose.
-Most repos here never reached a finish line — that's what prototyping is.
-Each one says what works, what doesn't, and where I stopped. The ones that
-catch, I maintain. The rest are open so someone else can pick them up and
-run with them. Nobody builds anything alone.
+**DEViance Intelligence** — *beyond the edge*. No roadmap, no pitch.
+The repos are the pitch.
 
 ## ▞▞ Now playing — fresh from the repos
 
@@ -111,7 +108,7 @@ run with them. Nobody builds anything alone.
   </tr>
 </table>
 
-Each README opens with an honest status. Start there, fork what you want.
+Every README says what's real. Fork what you want.
 
 ## ▞▞ Skills — the method, packaged
 
@@ -123,20 +120,20 @@ Each README opens with an honest status. Start there, fork what you want.
   </tr>
 </table>
 
-With this stack I can't remember the last time I lost a day to a bug hunt — two and a half
-years of daily AI-first work, distilled into the pack above.
+Two and a half years of this, every single day. I forgot what losing a day
+to a bug feels like — it's all in the pack.
 
 ## ▞▞ Story mode
 
-<img src="assets/story-mode.svg" width="100%" alt="Story mode: 1999 first desk, 2016 Cosmophonix, 2021 platinum, 2024 all in on AI, 2026 m1nd v1.0, now — beyond the edge">
+<img src="assets/story-mode.svg" width="100%" alt="Story mode: 1999 first desk, 2016 Cosmophonix, 2021 records blew up, 2024 all in on AI, 2026 m1nd v1.0, now — beyond the edge">
 
 ## ▞▞ Sound test — the other studio
 
-<img src="assets/sound-test.svg" width="100%" alt="Sound test — 27 years behind the desk, platinum and gold, FIMI certified">
+<img src="assets/sound-test.svg" width="100%" alt="Sound test — 27 years behind the desk">
 
-Before agents, consoles. I produced records for 27 years — platinum and gold among them.
-Compression, headroom, what survives the master: turns out it is all systems training.
-The other studio lives at [cosmophonix.com](https://cosmophonix.com).
+Before agents, consoles. Some of those records went platinum. Not the point —
+the point is compression, headroom, what survives the master. It was systems
+training all along. The other studio: [cosmophonix.com](https://cosmophonix.com).
 
 ## ▞▞ Continue? — contact
 
