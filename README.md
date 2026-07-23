@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/kle1nz-hero.svg" width="100%" alt="KLE1NZ — AI-first prototyper, 2.5 years of AI EXP, 44 stars, 19 public repos, 25 skills shipped">
+  <img src="assets/kle1nz-hero.svg" width="100%" alt="KLE1NZ — AI-first prototyper // system thinker. 19 public repos, 25 skills shipped. The impossible is just an opinion.">
 </p>
 
 # Max Klein
