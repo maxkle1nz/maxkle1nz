@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/deviance-prism-icon.png" width="64" alt="">
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/deviance-lockup-bone.png">
+    <img src="assets/deviance-lockup.png" width="440" alt="DEViance Intelligence — beyond the edge">
+  </picture>
+</p>
+
 # Max Klein
 
 I produce records and I engineer cognitive systems.
