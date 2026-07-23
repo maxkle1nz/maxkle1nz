@@ -9,7 +9,7 @@
   <img src="assets/kle1nz-hero.svg" width="100%" alt="KLE1NZ — AI-first prototyper // system thinker. 19 public repos, 25 skills shipped. The impossible is just an opinion.">
 </p>
 
-# Max Klein
+# Max Kleinz
 
 I produce records and I engineer cognitive systems.
 Same craft. Different medium.
@@ -29,37 +29,83 @@ run with them. Nobody builds anything alone.
 
 ## ▞▞ Systems I maintain
 
-→ **[m1nd](https://github.com/maxkle1nz/m1nd)** — structural truth for coding agents,
-so they navigate the codebase instead of guessing it.
-
-→ **[war-room](https://github.com/maxkle1nz/war-room)** — AI that argues back.
-Multi-agent decisions with a built-in devil's advocate.
-
-→ **[BANNED BY ANTHROPIC](https://github.com/maxkle1nz/banned-by-anthropic-public)** —
-independent public record for Claude and Anthropic account lockouts.
+<table>
+  <tr>
+    <td width="34" align="center"><img src="assets/icons/graph.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/m1nd"><b>m1nd</b></a></td>
+    <td>Structural truth for coding agents, so they navigate the codebase instead of guessing it.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/vs.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/war-room"><b>war-room</b></a></td>
+    <td>AI that argues back. Multi-agent decisions with a built-in devil's advocate.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/rec.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/banned-by-anthropic-public"><b>BANNED&nbsp;BY&nbsp;ANTHROPIC</b></a></td>
+    <td>Independent public record for Claude and Anthropic account lockouts.</td>
+  </tr>
+</table>
 
 ## ▞▞ The lab — open prototypes
 
-→ **[temponizer-paper](https://github.com/maxkle1nz/temponizer-paper)** — AI agents don't know how fast they are. A paper that measures the gap.
-→ **[synt0ny](https://github.com/maxkle1nz/synt0ny)** — the geometry of meaning in local embeddings, measured under sealed pre-registrations.
-→ **[v1truvio](https://github.com/maxkle1nz/v1truvio)** — not a design system; the compiler that generates them.
-→ **[l00p](https://github.com/maxkle1nz/l00p)** — Opus orchestrates, Codex executes, a deterministic gate closes the loop.
-→ **[almus](https://github.com/maxkle1nz/almus)** — agent-first CSS design system. The vocabulary is a written contract.
-→ **[thebridge](https://github.com/maxkle1nz/thebridge)** — the AI access you already have, behind one local OpenAI-compatible surface.
-→ **[pathos](https://github.com/maxkle1nz/pathos)** — continuity protocol for long human+agent sessions.
-→ **[Brotherizer](https://github.com/maxkle1nz/Brotherizer)** — the rewrite engine that gives LLM text a pulse.
+<table>
+  <tr>
+    <td width="34" align="center"><img src="assets/icons/clock.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/temponizer-paper"><b>temponizer-paper</b></a></td>
+    <td>AI agents don't know how fast they are. A paper that measures the gap.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/wave.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/synt0ny"><b>synt0ny</b></a></td>
+    <td>The geometry of meaning in local embeddings, measured under sealed pre-registrations.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/prisma.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/v1truvio"><b>v1truvio</b></a></td>
+    <td>Not a design system; the compiler that generates them.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/loop.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/l00p"><b>l00p</b></a></td>
+    <td>Opus orchestrates, Codex executes, a deterministic gate closes the loop.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/led.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/almus"><b>almus</b></a></td>
+    <td>Agent-first CSS design system. The vocabulary is a written contract.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/bridge.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/thebridge"><b>thebridge</b></a></td>
+    <td>The AI access you already have, behind one local OpenAI-compatible surface.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/thread.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/pathos"><b>pathos</b></a></td>
+    <td>Continuity protocol for long human+agent sessions.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/pulse.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/Brotherizer"><b>Brotherizer</b></a></td>
+    <td>The rewrite engine that gives LLM text a pulse.</td>
+  </tr>
+</table>
 
 Each README opens with an honest status. Start there, fork what you want.
 
 ## ▞▞ Skills — the method, packaged
 
-→ **[deviance-skills](https://github.com/maxkle1nz/deviance-skills)** — the operating doctrine my agents carry,
-for Claude Code and Codex. Twelve skills that survived daily use — counterpoint, proof-first building, session
-continuity, repo health, security truth, git hygiene. One of them ships with its own blind A/B evidence.
-With this stack I can't remember the last time I lost a day to a bug hunt — two and a half
-years of daily AI-first work, distilled into the packs above.
+<table>
+  <tr>
+    <td width="34" align="center"><img src="assets/icons/bolt.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/deviance-skills"><b>deviance-skills</b></a></td>
+    <td>The operating doctrine my agents carry, for Claude Code and Codex — twelve skills that survived daily use: counterpoint, proof-first building, session continuity, repo health, security truth, git hygiene. One ships with its own blind A/B evidence.</td>
+  </tr>
+</table>
 
-→ **[kognit1v](https://github.com/maxkle1nz/kognit1v-intelligence-systems)** — 13 cognitive skills for Codex. The first pack.
+With this stack I can't remember the last time I lost a day to a bug hunt — two and a half
+years of daily AI-first work, distilled into the pack above.
 
 ---
 
