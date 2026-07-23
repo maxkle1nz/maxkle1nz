@@ -136,6 +136,7 @@ years of daily AI-first work, distilled into the pack above.
 
 Before agents, consoles. I produced records for 27 years — platinum and gold among them.
 Compression, headroom, what survives the master: turns out it is all systems training.
+The other studio lives at [cosmophonix.com](https://cosmophonix.com).
 
 ## ▞▞ Continue? — contact
 
