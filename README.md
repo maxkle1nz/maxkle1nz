@@ -126,9 +126,17 @@ Each README opens with an honest status. Start there, fork what you want.
 With this stack I can't remember the last time I lost a day to a bug hunt — two and a half
 years of daily AI-first work, distilled into the pack above.
 
+## ▞▞ Sound test — the other studio
+
+<img src="assets/sound-test.svg" width="100%" alt="Sound test — 27 years behind the desk, platinum and gold, FIMI certified">
+
+Before agents, consoles. I produced records for 27 years — platinum and gold among them.
+Compression, headroom, what survives the master: turns out it is all systems training.
+
 ## ▞▞ Continue? — contact
 
 <a href="https://github.com/maxkle1nz/maxkle1nz/issues/new?template=contact.yml"><img src="assets/contact-btn.svg" width="300" alt="Send a message"></a>
+<img src="assets/continue-countdown.svg" width="140" align="right" alt="Continue? 9">
 
 <sub>Opens a public issue. Private channel: kleinz@cosmophonix.com</sub>
 
@@ -141,3 +149,4 @@ years of daily AI-first work, distilled into the pack above.
   <br>
   <sub><a href="https://x.com/kle1nzzz">X / Twitter</a> · <a href="https://instagram.com/maxkle1nz">Instagram</a></sub>
 </p>
+<!-- ↑ ↑ ↓ ↓ ← → ← → B A — you found it. Mention KONAMI when you write and I will know you read the source. -->
