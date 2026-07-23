@@ -116,7 +116,7 @@ Every README says what's real. Fork what you want.
   <tr>
     <td width="34" align="center"><img src="assets/icons/bolt.svg" width="20" alt=""></td>
     <td><a href="https://github.com/maxkle1nz/deviance-skills"><b>deviance-skills</b></a></td>
-    <td>The operating doctrine my agents carry, for Claude Code and Codex — twelve skills that survived daily use: counterpoint, proof-first building, session continuity, repo health, security truth, git hygiene. One ships with its own blind A/B evidence.</td>
+    <td>The operating doctrine my agents carry, for Claude Code and Codex — thirteen skills that survived daily use: counterpoint, proof-first building, session continuity, repo health, security truth, git hygiene. One ships with its own blind A/B evidence.</td>
   </tr>
 </table>
 
