@@ -126,6 +126,10 @@ Each README opens with an honest status. Start there, fork what you want.
 With this stack I can't remember the last time I lost a day to a bug hunt — two and a half
 years of daily AI-first work, distilled into the pack above.
 
+## ▞▞ Story mode
+
+<img src="assets/story-mode.svg" width="100%" alt="Story mode: 1999 first desk, 2016 Cosmophonix, 2021 platinum, 2024 all in on AI, 2026 m1nd v1.0, now — beyond the edge">
+
 ## ▞▞ Sound test — the other studio
 
 <img src="assets/sound-test.svg" width="100%" alt="Sound test — 27 years behind the desk, platinum and gold, FIMI certified">
