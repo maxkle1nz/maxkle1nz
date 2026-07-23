@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="assets/deviance-prism-icon.png" width="64" alt="">
+  <img src="assets/deviance-prism-icon.png" width="56" alt="">
 </p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/deviance-lockup-bone.png">
-    <img src="assets/deviance-lockup.png" width="440" alt="DEViance Intelligence — beyond the edge">
-  </picture>
+  <img src="assets/deviance-trident-lockup.png" width="560" alt="DEViance.dev — intelligence beyond the edge">
+</p>
+
+<p align="center">
+  <img src="assets/kle1nz-hero.svg" width="100%" alt="KLE1NZ — AI-first prototyper, 2.5 years of AI EXP, 44 stars, 19 public repos, 25 skills shipped">
 </p>
 
 # Max Klein
@@ -26,7 +27,7 @@ run with them. Nobody builds anything alone.
 
 ---
 
-## Systems I maintain
+## ▞▞ Systems I maintain
 
 → **[m1nd](https://github.com/maxkle1nz/m1nd)** — structural truth for coding agents,
 so they navigate the codebase instead of guessing it.
@@ -37,7 +38,7 @@ Multi-agent decisions with a built-in devil's advocate.
 → **[BANNED BY ANTHROPIC](https://github.com/maxkle1nz/banned-by-anthropic-public)** —
 independent public record for Claude and Anthropic account lockouts.
 
-## The lab — open prototypes
+## ▞▞ The lab — open prototypes
 
 → **[temponizer-paper](https://github.com/maxkle1nz/temponizer-paper)** — AI agents don't know how fast they are. A paper that measures the gap.
 → **[synt0ny](https://github.com/maxkle1nz/synt0ny)** — the geometry of meaning in local embeddings, measured under sealed pre-registrations.
@@ -50,11 +51,13 @@ independent public record for Claude and Anthropic account lockouts.
 
 Each README opens with an honest status. Start there, fork what you want.
 
-## Skills — the method, packaged
+## ▞▞ Skills — the method, packaged
 
 → **[deviance-skills](https://github.com/maxkle1nz/deviance-skills)** — the operating doctrine my agents carry,
-for Claude Code and Codex. Eleven skills that survived daily use — counterpoint, proof-first building,
-session continuity, repo health, git hygiene. One of them ships with its own blind A/B evidence.
+for Claude Code and Codex. Twelve skills that survived daily use — counterpoint, proof-first building, session
+continuity, repo health, security truth, git hygiene. One of them ships with its own blind A/B evidence.
+With this stack I can't remember the last time I lost a day to a bug hunt — two and a half
+years of daily AI-first work, distilled into the packs above.
 
 → **[kognit1v](https://github.com/maxkle1nz/kognit1v-intelligence-systems)** — 13 cognitive skills for Codex. The first pack.
 
