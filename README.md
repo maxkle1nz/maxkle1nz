@@ -25,6 +25,25 @@ Each one says what works, what doesn't, and where I stopped. The ones that
 catch, I maintain. The rest are open so someone else can pick them up and
 run with them. Nobody builds anything alone.
 
+## ▞▞ Now playing — fresh from the repos
+
+<sub>Auto-sorted by last push · refreshed daily by a scheduled action · the flame means pushed this week.</sub>
+
+<!-- now-playing:start -->
+<p>
+<a href="https://github.com/maxkle1nz/temponizer-paper"><img src="assets/cards/temponizer-paper.svg" width="415" alt="temponizer-paper"></a>
+<a href="https://github.com/maxkle1nz/synt0ny"><img src="assets/cards/synt0ny.svg" width="415" alt="synt0ny"></a>
+</p>
+<p>
+<a href="https://github.com/maxkle1nz/deviance-skills"><img src="assets/cards/deviance-skills.svg" width="415" alt="deviance-skills"></a>
+<a href="https://github.com/maxkle1nz/thebridge"><img src="assets/cards/thebridge.svg" width="415" alt="thebridge"></a>
+</p>
+<p>
+<a href="https://github.com/maxkle1nz/almus"><img src="assets/cards/almus.svg" width="415" alt="almus"></a>
+<a href="https://github.com/maxkle1nz/l00p"><img src="assets/cards/l00p.svg" width="415" alt="l00p"></a>
+</p>
+<!-- now-playing:end -->
+
 ---
 
 ## ▞▞ Systems I maintain
@@ -106,6 +125,12 @@ Each README opens with an honest status. Start there, fork what you want.
 
 With this stack I can't remember the last time I lost a day to a bug hunt — two and a half
 years of daily AI-first work, distilled into the pack above.
+
+## ▞▞ Continue? — contact
+
+<a href="https://github.com/maxkle1nz/maxkle1nz/issues/new?template=contact.yml"><img src="assets/contact-btn.svg" width="300" alt="Send a message"></a>
+
+<sub>Opens a public issue. Private channel: kleinz@cosmophonix.com</sub>
 
 ---
 

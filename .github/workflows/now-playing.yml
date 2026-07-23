@@ -1,0 +1,22 @@
+name: now playing
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Regenerate cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/now_playing.py
+      - name: Commit if changed
+        run: |
+          git config user.name "Max Kle1nz"
+          git config user.email "kleinz@cosmophonix.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "Refresh now-playing panel" && git push)
