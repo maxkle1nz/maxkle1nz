@@ -28,16 +28,16 @@ The repos are the pitch.
 
 <!-- now-playing:start -->
 <p>
-<a href="https://github.com/maxkle1nz/deviance.dev"><img src="assets/cards/deviance.dev.svg" width="415" alt="deviance.dev"></a>
 <a href="https://github.com/maxkle1nz/m1nd"><img src="assets/cards/m1nd.svg" width="415" alt="m1nd"></a>
+<a href="https://github.com/maxkle1nz/RETROBUILDER"><img src="assets/cards/RETROBUILDER.svg" width="415" alt="RETROBUILDER"></a>
 </p>
 <p>
 <a href="https://github.com/maxkle1nz/synt0ny"><img src="assets/cards/synt0ny.svg" width="415" alt="synt0ny"></a>
-<a href="https://github.com/maxkle1nz/temponizer-paper"><img src="assets/cards/temponizer-paper.svg" width="415" alt="temponizer-paper"></a>
+<a href="https://github.com/maxkle1nz/v1truvio"><img src="assets/cards/v1truvio.svg" width="415" alt="v1truvio"></a>
 </p>
 <p>
-<a href="https://github.com/maxkle1nz/deviance-skills"><img src="assets/cards/deviance-skills.svg" width="415" alt="deviance-skills"></a>
-<a href="https://github.com/maxkle1nz/thebridge"><img src="assets/cards/thebridge.svg" width="415" alt="thebridge"></a>
+<a href="https://github.com/maxkle1nz/kognit1v-intelligence-systems"><img src="assets/cards/kognit1v-intelligence-systems.svg" width="415" alt="kognit1v-intelligence-systems"></a>
+<a href="https://github.com/maxkle1nz/almus"><img src="assets/cards/almus.svg" width="415" alt="almus"></a>
 </p>
 <!-- now-playing:end -->
 
