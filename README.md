@@ -11,13 +11,25 @@
 
 # Max Kleinz
 
-I made records for two decades. Now I build machines that think in code.
-Same job: press record, keep what's true, cut the rest.
+I spent two decades making records. Now I build machines that think in code.
+Different tools. Same instinct: press record, keep what's true, cut the rest.
 
-I'm a prototyper. Ideas hit in bursts and I ship them raw, on purpose.
-Half of this never reached a finish line — that's the point. Every repo
-says what works, what doesn't, where I stopped. Take one and run.
+I'm a prototyper. Ideas come in bursts, and I ship them raw on purpose.
+Not everything here is polished. Not everything made it to the finish line.
+That is part of the point.
+
+Every repo is a trace: what worked, what broke, where I stopped, and where
+someone else might begin. Take what you need. Fork what you can. Run with it.
 Nobody builds anything alone.
+
+My working framework was forged through trial, error, and a lot of research —
+until it reached a shape that feels close to perfect for the way I build.
+The system is designed to run autonomously: agents with enough structure,
+context, memory, constraints, and feedback to move without waiting for me at
+every step. That is the core of my research, especially in **m1nd**: a framework
+that gives an agent the essential and deep information it needs to understand
+context, architecture, intent, history, and the many other dimensions behind a
+codebase before it acts.
 
 **DEViance Intelligence** — *beyond the edge*. No roadmap, no pitch.
 The repos are the pitch.
@@ -49,12 +61,27 @@ The repos are the pitch.
   <tr>
     <td width="34" align="center"><img src="assets/icons/graph.svg" width="20" alt=""></td>
     <td><a href="https://github.com/maxkle1nz/m1nd"><b>m1nd</b></a></td>
-    <td>Structural truth for coding agents, so they navigate the codebase instead of guessing it.</td>
+    <td>Context infrastructure for coding agents: repo maps, memory, structure, constraints, and deep project truth before action.</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/icons/vs.svg" width="20" alt=""></td>
-    <td><a href="https://github.com/maxkle1nz/war-room"><b>war-room</b></a></td>
-    <td>AI that argues back. Multi-agent decisions with a built-in devil's advocate.</td>
+    <td align="center"><img src="assets/icons/bolt.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/deviance-skills"><b>deviance-skills</b></a></td>
+    <td>The working doctrine my agents carry: skills forged through daily use, evidence, counterpoint, continuity, and repo health.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/loop.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/l00p"><b>l00p</b></a></td>
+    <td>Autonomous build loop: orchestration, execution, verification, and a deterministic gate that closes the cycle.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/prisma.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/v1truvio"><b>v1truvio</b></a></td>
+    <td>The compiler for visual systems — not the design system, the machine that generates them.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/thread.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/pathos"><b>pathos</b></a></td>
+    <td>Continuity protocol for long human+agent sessions, so the thread survives beyond one prompt.</td>
   </tr>
   <tr>
     <td align="center"><img src="assets/icons/rec.svg" width="20" alt=""></td>
@@ -120,8 +147,9 @@ Every README says what's real. Fork what you want.
   </tr>
 </table>
 
-Two and a half years of this, every single day. I forgot what losing a day
-to a bug feels like — it's all in the pack.
+This is the method, packaged: forged in trial and error, pressure-tested by
+research and daily shipping, then reduced until the agents can carry it without
+me explaining the room every time.
 
 ## ▞▞ Story mode
 
