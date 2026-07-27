@@ -159,8 +159,8 @@ me explaining the room every time.
 
 <img src="assets/sound-test.svg" width="100%" alt="Sound test — 27 years behind the desk">
 
-Before agents, consoles. Some of those records went platinum. Not the point —
-the point is compression, headroom, what survives the master. It was systems
+Before agents, consoles. Some of those records went platinum. Not the point.
+The point is compression, headroom, what survives the master. It was systems
 training all along. The other studio: [cosmophonix.com](https://cosmophonix.com).
 
 ## ▞▞ Continue? — contact
