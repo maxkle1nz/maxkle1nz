@@ -1,1 +1,77 @@
-PHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9ImFzc2V0cy9kZXZpYW5jZS1wcmlzbS1pY29uLnBuZyIgd2lkdGg9IjU2IiBhbHQ9IiI+CjwvcD4KPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9ImFzc2V0cy9kZXZpYW5jZS10cmlkZW50LWxvY2t1cC5wbmciIHdpZHRoPSI1NjAiIGFsdD0iREVWaWFuY2UuZGV2IOKAlCBpbnRlbGxpZ2VuY2UgYmV5b25kIHRoZSBlZGdlIj4KPC9wPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9ImFzc2V0cy9rbGUxbnotaGVyby5zdmciIHdpZHRoPSIxMDAlIiBhbHQ9IktMRTFOWiDigJQgQUktZmlyc3QgcHJvdG90eXBlciAvLyBzeXN0ZW0gdGhpbmtlci4gMTkgcHVibGljIHJlcG9zLCAyNSBza2lsbHMgc2hpcHBlZC4gVGhlIGltcG9zc2libGUgaXMganVzdCBhbiBvcGluaW9uLiI+CjwvcD4KCiMgTWF4IEtsZTFuegoKPiAqKkVzY292YW5kbyBiaXQgZGVzZGUgJzk5LCBtYXMgY29tIG8gb3V2aWRvIHZpY2lhZG8gZW0gbWFzdGVyaXphw6fDo28gZSBvIGZlZWxpbmcgZGUgcXVlbSBqw6EgZXN0ZXZlIG5vIHBhbGNvLioqCgpDb21lY2VpIGNvZGFuZG8gbm8gY29sZWdpYWwgdMOpY25pY28gZGEgVW5pIFNhbnQnQW5uYSBsw6EgZW0gMTk5OS4gUHJvY2Vzc2FtZW50byBkZSBkYWRvcyBwdXJvLiBNYXMgYSB2aWRhIG1lIHB1eG91IHBybyBwYWxjbyBlIHBybyBlc3TDumRpby4gRnVpIGFydGlzdGEsIHRvcXVlaSBubyAqKkhvcmkqKiwgZSBjb21vIHByb2R1dG9yIGFjYWJlaSBsYW7Dp2FuZG8gZ2VudGUgcXVlIGJhdGV1IHRvcG8gZGUgcGFyYWRhIG5hIEl0w6FsaWEuIE5vIGZpbSBkYXMgY29udGFzLCBtw7pzaWNhIGUgc2lzdGVtYXMgc8OjbyBhIG1lc21hIGNvaXNhOiDDqSB0dWRvIHNvYnJlIGNvbW8gYXMgcGFydGVzIHNlIGNvbmVjdGFtIHByYSBuw6NvIGRlaXhhciBhIGlkZWlhIG1vcnJlci4KCkhvamUsIHTDtCBtZXJndWxoYWRvIG5hIHBlc3F1aXNhIGRlIElBLiBOw6NvIHNvdSBvIGNhcmEgZG8gc29mdHdhcmUgcG9saWRvOyBldSBzb3UgdW0gKipwcm90b3R5cGVyKiouIEV1IG1vbnRvIG8gbsO6Y2xlbywgcHJvdm8gcXVlIGEgcGFyYWRhIGZ1bmNpb25hIGUgbGFuw6dvIGNydS4gU2UgbyBhZ2VudGUgbsOjbyBlbnRlbmRlIGEgYXJxdWl0ZXR1cmEgZSBvIGNvbnRleHRvIHByb2Z1bmRvLCBlbGUgw6kgc8OzIHVtIHNjcmlwdCBjYXJvLiBSZXNvbHZvIGlzc28gY29tIG8gKiptMW5kKiouCgojIyMg4pae4paeIERFVmlhbmNlIEludGVsbGlnZW5jZQpGdW5kZWkgYSAqKkRFVmlhbmNlIEludGVsbGlnZW5jZSoqIHByYSBzZXIgbWV1IGxhYi4gTWV1IHJpdG1vIMOpIGRlIHBlc3F1aXNhIGUgcHJvdG90aXBhZ2VtIGNvbnTDrW51YSwgZW50w6NvICoqdMO0IHByb2N1cmFuZG8gZGV2cyoqIHF1ZSBxdWVpcmFtIGFzc3VtaXIgbyBjb250cm9sZSBkZSBhbGd1bnMgZGVzc2VzIHRyYWJhbGhvcywgdG9jYXIgYXMgcGVzcXVpc2FzIHF1ZSBldSBjb21lY2VpIGUgbWUgYWp1ZGFyIGEgbW9udGFyIGVzc2Egbm92YSBnZXJhw6fDo28gZGUgc2lzdGVtYXMuIAoKU2Ugdm9jw6ogY3VydGUgY8OzZGlnbyBicnV0byBlIG7Do28gdGVtIG1lZG8gZGEgZnJvbnRlaXJhIGRhIElBLCBjb2xhIGp1bnRvLiBFIHNlIHZvY8OqIMOpIGRldiBlIGFpbmRhIG7Do28gY2VkZXUgw6AgSUEsIG1lIGNoYW1hLCBhIGdlbnRlIHRyb2NhIGlkZWlhIGUgZXUgdGUgbW9zdHJvIGNvbW8gYXMgbm92YXMgZmVycmFtZW50YXMgcXVlIGVzdGFtb3MgZGVzZW52b2x2ZW5kbyBwb2RlbSB0ZSBhanVkYXIgYSBuw6NvIHNlIHNlbnRpciBzw7MgbWFpcyB1bSBjYXJhIGNoYXRvIHF1ZSBmYWxhIGRlIGPDs2RpZ28gZW5xdWFudG8gdG9kbyBtdW5kbyBlc3TDoSBmYWxhbmRvIGRlIGlkZWlhcy4uLiB2ZW0gY29taWdvLgoKLS0tCgojIyDilp7ilp4gVGhlIFN0YWNrCgpgQXNzZW1ibHlgIMK3IGBDYCDCtyBgQysrYCDCtyBgUnVzdGAgwrcgYFB5dGhvbmAgwrcgYEpTYCDCtyBgRWxlY3Ryb25gIMK3IGBWaXRlYCAgCmBTY3JhcGluZyBIZWF2eWAgwrcgYEFQSSBEaXNjb3ZlcnlgIMK3IGBBZ2VudGljIEluZnJhc3RydWN0dXJlYCDCtyBgU3lzdGVtIFRoaW5raW5nYAoKLS0tCgojIyDilp7ilp4gU3lzdGVtcyBJIG1haW50YWluCgp8IHwgWyoqbTFuZCoqXShodHRwczovL2dpdGh1Yi5jb20vbWF4a2xlMW56L20xbmQpIHwgKipGbGFnc2hpcC4qKiBDaGVnYSBkZSBhZ2VudGVzIGFkaXZpbmhhbmRvOiBpbmZyYWVzdHJ1dHVyYSBkZSBjb250ZXh0byBwcm9mdW5kbyBlIHNjcmFwaW5nIHBlc2FkbyBwcmEgZW50ZW5kZXIgYSB2ZXJkYWRlIGFudGVzIGRlIGFnaXIuIHwKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IHwgWyoqZGV2aWFuY2Utc2tpbGxzKipdKGh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnovZGV2aWFuY2Utc2tpbGxzKSB8IEEgZG91dHJpbmEgZG9zIG1ldXMgYWdlbnRlcy4gU2tpbGxzIGZvcmphZGFzIG5vIHVzbyBkacOhcmlvOiBwcm92YSwgY29udGludWlkYWRlIGUgaGlnaWVuZSBkZSBnaXQuIHwKfCB8IFsqKmwwMHAqKl0oaHR0cHM6Ly9naXRodWIuY29tL21heGtsZTFuei9sMDBwKSB8IExvb3AgZGUgYnVpbGQgYXV0w7Rub21vLiBPcnF1ZXN0cmHDp8OjbyBlIHZlcmlmaWNhw6fDo28gY29tIHVtIGdhdGUgZGV0ZXJtaW7DrXN0aWNvIHF1ZSBmZWNoYSBvIGNpY2xvLiB8CnwgfCBbKip2MXRydXZpbyoqXShodHRwczovL2dpdGh1Yi5jb20vbWF4a2xlMW56L3YxdHJ1dmlvKSB8IE8gY29tcGlsYWRvciBwYXJhIHNpc3RlbWFzIHZpc3VhaXMg4oCUIG7Do28gbyBkZXNpZ24gc3lzdGVtLCBhIG3DoXF1aW5hIHF1ZSBnZXJhIGVsZXMuIHwKCi0tLQoKIyMg4pae4paeIFN0b3J5IG1vZGUKCjxpbWcgc3JjPSJhc3NldHMvc3RvcnktbW9kZS5zdmciIHdpZHRoPSIxMDAlIiBhbHQ9IlN0b3J5IG1vZGU6IDE5OTkgdGVjaG5pY2FsIGRlc2ssIDIwMTYgQ29zbW9waG9uaXgsIDIwMjEgcmVjb3JkcywgMjAyNCBBSSB0cmFuc2l0aW9uLCAyMDI2IG0xbmQgdjEuMC4iPgoKLS0tCgojIyDilp7ilp4gU291bmQgdGVzdCDigJQgdGhlIG90aGVyIHN0dWRpbwoKPGltZyBzcmM9ImFzc2V0cy9zb3VuZC10ZXN0LnN2ZyIgd2lkdGg9IjEwMCUiIGFsdD0iU291bmQgdGVzdCDigJQgMjcgeWVhcnMgYmVoaW5kIHRoZSBkZXNrIj4KCjI3IGFub3MgZW50cmUgcGFsY29zIGUgY29uc29sZXMuIERvICoqSG9yaSoqIGFvIHRvcG8gZGFzIHBhcmFkYXMgaXRhbGlhbmFzLiBGb2kgdW0gdHJlaW5hbWVudG8gZGUgc2lzdGVtYXMgZW0gdGVtcG8gcmVhbDogY29tcHJlc3PDo28sIGhlYWRyb29tIGUgbyBxdWUgc29icmV2aXZlIGFvIG1hc3Rlci4gTyBjw7NkaWdvIHNlZ3VlIGEgbWVzbWEgcsOpZ3VhIHTDqWNuaWNhLgoKU2Ugdm9jw6ogY3VydGUgbcO6c2ljYSBlIHVtYSBwZWdhZGEgUmVnZ2FlL0RhbmNlaGFsbCwgZMOhIHVtIGNoZWNrIGVtIFsqKkJBRE1BTioqXShodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWVWb1VfLUxBN1dZKSwgcXVlIHByb2R1emkgcmVjZW50ZW1lbnRlIGNvbSBhICoqTE9XUkFIKiouIEZheiBwYXJ0ZSBkbyBtZXUgbm92byBwcm9qZXRvIGFydMOtc3RpY28uIE11c2ljIGFuZCBnb29kIHZpYmVzLCBzZW1wcmUuIOKcjO+4jwoKLS0tCgojIyDilp7ilp4gQ29udGludWU/IOKAlCBjb250YWN0Cgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vbWF4a2xlMW56L21heGtsZTFuei9pc3N1ZXMvbmV3P3RlbXBsYXRlPWNvbnRhY3QueW1sIj48aW1nIHNyYz0iYXNzZXRzL2NvbnRhY3QtYnRuLnN2ZyIgd2lkdGg9IjMwMCIgYWx0PSJTZW5kIGEgbWVzc2FnZSI+PC9hPgo8aW1nIHNyYz0iYXNzZXRzL2NvbnRpbnVlLWNvdW50ZG93bi5zdmciIHdpZHRoPSIxNDAiIGFsaWduPSJyaWdodCIgYWx0PSJDb250aW51ZT8gOSI+Cgo8c3ViPkFicmUgdW1hIGlzc3VlIHDDumJsaWNhIG91IG1hbmRhIHVtIGUtbWFpbDoga2xlaW56QGNvc21vcGhvbml4LmNvbTwvc3ViPgoKLS0tCgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iYXNzZXRzL2RldmlhbmNlLXByaXNtLWljb24ucG5nIiB3aWR0aD0iNTYiIGFsdD0iREVWaWFuY2UgSW50ZWxsaWdlbmNlIj4KICA8YnI+CiAgPHN1Yj48YSBocmVmPSJodHRwczovL21heGtsZTFuei5naXRodWIuaW8vZGV2aWFuY2UuZGV2LyI+PGI+REVWaWFuY2UgSW50ZWxsaWdlbmNlPC9iPjwvYT4g4oCUIDxpPmJleW9uZCB0aGUgZWRnZTwvaT4gwrcgQ29zbW9waG9uaXggwrcga2xlaW56QGNvc21vcGhvbml4LmNvbTwvc3ViPgogIDxicj4KICA8c3ViPjxhIGhyZWY9Imh0dHBzOi8veC5jb20va2xlMW56enoiPlggLyBUd2l0dGVyPC9hPiDCtyA8YSBocmVmPSJodHRwczovL2luc3RhZ3JhbS5vbS9tYXhrbGUxbnoiPkluc3RhZ3JhbTwvYT48L3N1Yj4KPC9wPgo8IS0tIOKGkSDihpEg4oaTIOKGkyDihpAg4oaSIOKGkCDihpIgQiBBIOKAlCB5b3UZm91bmQgaXQuIE1lbnRpb24gS09OQU1JIHdoZW4geW91IHdyaXRlIGFuZCBJIHdpbGwga25vdyB5b3UgcmVhZCB0aGUgc291cmNlLiAtLT4K
+<p align="center">
+  <img src="assets/deviance-prism-icon.png" width="56" alt="">
+</p>
+<p align="center">
+  <img src="assets/deviance-trident-lockup.png" width="560" alt="DEViance.dev | intelligence beyond the edge">
+</p>
+
+<p align="center">
+  <img src="assets/kle1nz-hero.svg" width="100%" alt="KLE1NZ | AI-first prototyper // system thinker. 19 public repos, 25 skills shipped. The impossible is just an opinion.">
+</p>
+
+# Max Kle1nz
+
+> **Escovando bit desde '99, mas com o ouvido viciado em masterização e o feeling de quem já esteve no palco.**
+
+Comecei codando no colegial técnico da Uni Sant'Anna lá em 1999. Processamento de dados puro. Mas a vida me puxou pro palco e pro estúdio. Fui artista, toquei no **Hori**, e como produtor acabei lançando gente que bateu topo de parada na Itália. No fim das contas, música e sistemas são a mesma coisa: é tudo sobre como as partes se conectam pra não deixar a ideia morrer.
+
+Hoje, tô mergulhado na pesquisa de IA. Não sou o cara do software polido; eu sou um **prototyper**. Eu monto o núcleo, provo que a parada funciona e lanço cru. Se o agente não entende a arquitetura e o contexto profundo, ele é só um script caro. Resolvo isso com o **m1nd**.
+
+### ▞▞ DEViance Intelligence
+Fundei a **DEViance Intelligence** pra ser meu lab. Meu ritmo é de pesquisa e prototipagem contínua, então **tô procurando devs** que queiram assumir o controle de alguns desses trabalhos, tocar as pesquisas que eu comecei e me ajudar a montar essa nova geração de sistemas. 
+
+Se você curte código bruto e não tem medo da fronteira da IA, cola junto. E se você é dev e ainda não cedeu à IA, me chama, a gente troca ideia e eu te mostro como as novas ferramentas que estamos desenvolvendo podem te ajudar a não se sentir só mais um cara chato que fala de código enquanto todo mundo está falando de ideias... vem comigo.
+
+---
+
+## ▞▞ The Stack
+
+`Assembly` · `C` · `C++` · `Rust` · `Python` · `JS` · `Electron` · `Vite`  
+`Scraping Heavy` · `API Discovery` · `Agentic Infrastructure` · `System Thinking`
+
+---
+
+## ▞▞ Systems I maintain
+
+| | [**m1nd**](https://github.com/maxkle1nz/m1nd) | **Flagship.** Chega de agentes adivinhando: infraestrutura de contexto profundo e scraping pesado pra entender a verdade antes de agir. |
+| --- | --- | --- |
+| | [**deviance-skills**](https://github.com/maxkle1nz/deviance-skills) | A doutrina dos meus agentes. Skills forjadas no uso diário: prova, continuidade e higiene de git. |
+| | [**l00p**](https://github.com/maxkle1nz/l00p) | Loop de build autônomo. Orquestração e verificação com um gate determinístico que fecha o ciclo. |
+| | [**v1truvio**](https://github.com/maxkle1nz/v1truvio) | O compilador para sistemas visuais; não o design system, a máquina que gera eles. |
+
+---
+
+## ▞▞ Story mode
+
+<img src="assets/story-mode.svg" width="100%" alt="Story mode: 1999 technical desk, 2016 Cosmophonix, 2021 records, 2024 AI transition, 2026 m1nd v1.0.">
+
+---
+
+## ▞▞ Sound test | the other studio
+
+<img src="assets/sound-test.svg" width="100%" alt="Sound test | 27 years behind the desk">
+
+27 anos entre palcos e consoles. Do **Hori** ao topo das paradas italianas. Foi um treinamento de sistemas em tempo real: compressão, headroom e o que sobrevive ao master. O código segue a mesma régua técnica.
+
+Se você curte música e uma pegada Reggae/Dancehall, dá um check em [**BADMAN**](https://www.youtube.com/watch?v=eVoU_-LA7WY), que produzi recentemente com a **LOWRAH**. Faz parte do meu novo projeto artístico. Music and good vibes, sempre. ✌️
+
+---
+
+## ▞▞ Continue? | contact
+
+<a href="https://github.com/maxkle1nz/maxkle1nz/issues/new?template=contact. yml"><img src="assets/contact-btn.svg" width="300" alt="Send a message"></a>
+<img src="assets/continue-countdown.svg" width="140" align="right" alt="Continue? 9">
+
+<sub>Abre uma issue pública ou manda um e-mail: kleinz@cosmophonix.com</sub>
+
+---
+
+# page align center
+<p align="center">
+  <img src="assets/deviance-prism-icon.png" width="56" alt="DEViance Intelligence">
+  <br>
+  <sub><a href="https://maxkle1nz.github.io/deviance.dev/"><b>DEViance Intelligence</b></a> | <i>beyond the edge</i> · Cosmophonix · kleinz@cosmophonix.com</sub>
+  <br>
+  <sub><a href="https://x.com/kle1nzzz">X / Twitter</a> · <a href="https://instagram.com/maxkle1nz">Instagram</a></sub>
+</p>
+<!-- ⬅ ⬅ ⬅ ⬅ ⬅ ⬅ ⬅ ⬅ B A | you found it. Mention KONAMI when you write and I will know you read the source. -->
