@@ -11,16 +11,16 @@
 
 # Max Kle1nz
 
-> **Escovando bit desde '99, mas com o ouvido viciado em masterização e o feeling de quem já esteve no palco.**
+> **Crunching bits since '99, with an ear addicted to mastering and the feeling of someone who's already been on stage.**
 
-Comecei codando no colegial técnico da Uni Sant'Anna lá em 1999. Processamento de dados puro. Mas a vida me puxou pro palco e pro estúdio. Fui artista, toquei no **Hori**, e como produtor acabei lançando gente que bateu topo de parada na Itália. No fim das contas, música e sistemas são a mesma coisa: é tudo sobre como as partes se conectam pra não deixar a ideia morrer.
+I started coding in the technical high school of Uni Sant'Anna back in 1999. Pure data processing. But life pulled me to the stage and the studio. I was an artist, played in **Hori**, and as a producer I ended up launching artists who hit the top of the charts in Italy. In the end, music and systems are the same thing: it's all about how the parts connect to keep the idea alive.
 
-Hoje, tô mergulhado na pesquisa de IA. Não sou o cara do software polido; eu sou um **prototyper**. Eu monto o núcleo, provo que a parada funciona e lanço cru. Se o agente não entende a arquitetura e o contexto profundo, ele é só um script caro. Resolvo isso com o **m1nd**.
+Today, I'm deep into AI research. I'm not the guy for polished software; I am a **prototyper**. I build the core, prove the thing works, and launch it raw. If the agent doesn't understand the architecture and deep context, it's just an expensive script. I solve this with **m1nd**.
 
 ### ▞▞ DEViance Intelligence
-Fundei a **DEViance Intelligence** pra ser meu lab. Meu ritmo é de pesquisa e prototipagem contínua, então **tô procurando devs** que queiram assumir o controle de alguns desses trabalhos, tocar as pesquisas que eu comecei e me ajudar a montar essa nova geração de sistemas. 
+I founded **DEViance Intelligence** to be my lab. My pace is one of continuous research and prototyping, so **I'm looking for devs** who want to take control of some of these works, carry on the research I started, and help me build this new generation of systems. 
 
-Se você curte código bruto e não tem medo da fronteira da IA, cola junto. E se você é dev e ainda não cedeu à IA, me chama, a gente troca ideia e eu te mostro como as novas ferramentas que estamos desenvolvendo podem te ajudar a não se sentir só mais um cara chato que fala de código enquanto todo mundo está falando de ideias... vem comigo.
+If you like raw code and aren't afraid of the AI frontier, come along. And if you're a dev and still haven't given in to AI, call me, let's talk and I'll show you how the new tools we're developing can help you not feel like just another boring guy talking about code while everyone else is talking about ideas... come with me.
 
 ---
 
@@ -33,11 +33,11 @@ Se você curte código bruto e não tem medo da fronteira da IA, cola junto. E s
 
 ## ▞▞ Systems I maintain
 
-| | [**m1nd**](https://github.com/maxkle1nz/m1nd) | **Flagship.** Chega de agentes adivinhando: infraestrutura de contexto profundo e scraping pesado pra entender a verdade antes de agir. |
+| | [**m1nd**](https://github.com/maxkle1nz/m1nd) | **Flagship.** No more guessing agents: deep context infrastructure and heavy scraping to understand the truth before acting. |
 | --- | --- | --- |
-| | [**deviance-skills**](https://github.com/maxkle1nz/deviance-skills) | A doutrina dos meus agentes. Skills forjadas no uso diário: prova, continuidade e higiene de git. |
+| | [**deviance-skills**](https://github.com/maxkle1nz/deviance-skills) | The doctrine of my agents. Skills forged in daily use: proof, continuidade e higiene de git. |
 | | [**l00p**](https://github.com/maxkle1nz/l00p) | Loop de build autônomo. Orquestração e verificação com um gate determinístico que fecha o ciclo. |
-| | [**v1truvio**](https://github.com/maxkle1nz/v1truvio) | O compilador para sistemas visuais; não o design system, a máquina que gera eles. |
+| | [**v1truvio**](https://github.com/maxkle1nz/v1truvio) |  The compiler for visual systems; not the design system, the machine that generates them. |
 
 ---
 
@@ -51,26 +51,25 @@ Se você curte código bruto e não tem medo da fronteira da IA, cola junto. E s
 
 <img src="assets/sound-test.svg" width="100%" alt="Sound test | 27 years behind the desk">
 
-27 anos entre palcos e consoles. Do **Hori** ao topo das paradas italianas. Foi um treinamento de sistemas em tempo real: compressão, headroom e o que sobrevive ao master. O código segue a mesma régua técnica.
+27 years between stages and consoles. From **Hori** to the top of the Italian charts. It was real-time systems training: compression, headroom, and what survives the master. The code follows the same technical ruler.
 
-Se você curte música e uma pegada Reggae/Dancehall, dá um check em [**BADMAN**](https://www.youtube.com/watch?v=eVoU_-LA7WY), que produzi recentemente com a **LOWRAH**. Faz parte do meu novo projeto artístico. Music and good vibes, sempre. ✌️
+If you like music and a Reggae/Dancehall vibe, check out [**BADMAN**](https://www.youtube.com/watch?v=eVoU_-LA7WY), which I recently produzi recentemente com a **LOWRAH**. It's part of my new artistic project. Music and good vibes, always. ✌️
 
 ---
 
 ## ▞▞ Continue? | contact
 
-<a href="https://github.com/maxkle1nz/maxkle1nz/issues/new?template=contact. yml"><img src="assets/contact-btn.svg" width="300" alt="Send a message"></a>
+<a href="https://github.com/maxkle1nz/maxkle1nz/issues/new?template=contact.yml"><img src="assets/contact-btn.svg" width="300" alt="Send a message"></a>
 <img src="assets/continue-countdown.svg" width="140" align="right" alt="Continue? 9">
 
-<sub>Abre uma issue pública ou manda um e-mail: kleinz@cosmophonix.com</sub>
+<sub>Open a public issue or send an email: kleinz@cosmophonix.com</sub>
 
 ---
 
-# page align center
 <p align="center">
   <img src="assets/deviance-prism-icon.png" width="56" alt="DEViance Intelligence">
   <br>
-  <sub><a href="https://maxkle1nz.github.io/deviance.dev/"><b>DEViance Intelligence</b></a> | <i>beyond the edge</i> · Cosmophonix · kleinz@cosmophonix.com</sub>
+  <ub><a href="https://maxkle1nz.github.io/deviance.dev/"><b>DEViance Intelligence</b></a> | <i>beyond the edge</i> · Cosmophonix · kleinz@cosmophonix.com</sub>
   <br>
   <sub><a href="https://x.com/kle1nzzz">X / Twitter</a> · <a href="https://instagram.com/maxkle1nz">Instagram</a></sub>
 </p>
