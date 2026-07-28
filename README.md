@@ -53,7 +53,7 @@ If you like raw code and aren't afraid of the AI frontier, come along. And if yo
 
 27 years between stages and consoles. From **Hori** to the top of the Italian charts. It was real-time systems training: compression, headroom, and what survives the master. The code follows the same technical ruler.
 
-If you like music and a Reggae/Dancehall vibe, check out [**BADMAN**](https://www.youtube.com/watch?v=eVoU_-LA7WY), which I recently produzi recentemente com a **LOWRAH**. It's part of my new artistic project. Music and good vibes, always. ✌️
+If you like music and a Reggae/Dancehall vibe, check out [**BADMAN**](https://www.youtube.com/watch?v=eVoU_-LA7WY), which I recently produced with **LOWRAH**. It's part of my new artistic project. Music and good vibes, always. ✌️
 
 ---
 
@@ -69,7 +69,7 @@ If you like music and a Reggae/Dancehall vibe, check out [**BADMAN**](https://ww
 <p align="center">
   <img src="assets/deviance-prism-icon.png" width="56" alt="DEViance Intelligence">
   <br>
-  <ub><a href="https://maxkle1nz.github.io/deviance.dev/"><b>DEViance Intelligence</b></a> | <i>beyond the edge</i> · Cosmophonix · kleinz@cosmophonix.com</sub>
+  <sub><a href="https://maxkle1nz.github.io/deviance.dev/"><b>DEViance Intelligence</b></a> | <i>beyond the edge</i> · Cosmophonix · kleinz@cosmophonix.com</sub>
   <br>
   <sub><a href="https://x.com/kle1nzzz">X / Twitter</a> · <a href="https://instagram.com/maxkle1nz">Instagram</a></sub>
 </p>
