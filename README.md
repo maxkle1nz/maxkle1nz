@@ -1,1 +1,184 @@
-PHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9ImFzc2V0cy9kZXZpYW5jZS1wcmlzbS1pY29uLnBuZyIgd2lkdGg9IjU2IiBhbHQ9IiI+CjwvcD4KPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9ImFzc2V0cy9kZXZpYW5jZS10cmlkZW50LWxvY2t1cC5wbmciIHdpZHRoPSI1NjAiIGFsdD0iREVWaWFuY2UuZGV2IHwgaW50ZWxsaWdlbmNlIGJleW9uZCB0aGUgZWRnZSI+CjwvcD4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJhc3NldHMva2xlMW56LWhlcm8uc3ZnIiB3aWR0aD0iMTAwJSIgYWx0PSJLTEUxTlogfCBBSS1maXJzdCBwcm90b3R5cGVyIC8vIHN5c3RlbSB0aGlua2VyLiAxOSBwdWJsaWMgcmVwb3MsIDI1IHNraWxscyBzaGlwcGVkLiBUaGUgaW1wb3NzaWJsZSBpcyBqdXN0IGFuIG9waW5pb24uIj4KPC9wPgoKIyBNYXggS2xlMW56Cgo+ICoqQ3J1bmNoaW5nIGJpdHMgc2luY2UgSSB3YXMgMTMgfCBRdWFrZVdvcmxkIG9wZW5lZCB1cCBDLCBhbmQgSSBuZXZlciBsb29rZWQgYmFjay4qKgoKSSBzdGFydGVkIGJ5IG1lc3Npbmcgd2l0aCAqKlF1YWtlV29ybGQqKiBjb2RlIHdoZW4gSSB3YXMgMTMuIFRoYXQncyB3aGF0IGNyYWNrZWQgb3BlbiBDIGZvciBtZSBhbmQgbGVkIHN0cmFpZ2h0IGludG8gdGVjaG5pY2FsIGhpZ2ggc2Nob29sIGZvciBEYXRhIFByb2Nlc3NpbmcgYXQgVW5pIFNhbnQnQW5uYSBpbiAnOTkuIFRoZW4gdGhlIHN0YWdlIGNhbGxlZC4gSSBzcGVudCB5ZWFycyBhcyBhbiBhcnRpc3QgaW4gKipIb3JpKiogYW5kIGEgcHJvZHVjZXIgbGF1bmNoaW5nIHRvcC1jaGFydCBoaXRzIGluIEl0YWx5LiAKCkluIHRoZSBlbmQsIG11c2ljIGFuZCBzeXN0ZW1zIGFyZSB0aGUgc2FtZSB0aGluZzogaXQncyBhbGwgYWJvdXQgaG93IHRoZSBwYXJ0cyBjb25uZWN0IHNvIHRoZSBpZGVhIGRvZXNuJ3QgZGllLiBUb2RheSwgSSdtIGRlZXAgaW50byBBSSByZXNlYXJjaC4gSSdtIGEgKipwcm90b3R5cGVyKiouIEkgYnVpbGQgdGhlIGNvcmUsIHByb3ZlIHRoZSBjb25jZXB0LCBhbmQgbGF1bmNoIGl0IHJhdy4gSWYgYW4gYWdlbnQgZG9lc24ndCB1bmRlcnN0YW5kIHRoZSBhcnNoaXRlY3R1cmUgYW5kIGRlZXAgY29udGV4dCwgaXQncyBqdXN0IGFuIGV4cGVuc2l2ZSBzY3JpcHQuIEkgc29sdmUgdGhpcyB3aXRoICoqbTFuZCoqLgoKIyMjIOKWnuKWniBERVZpYW5jZSBJbnRlbGxpZ2VuY2UKSSBmb3VuZGVkICoqREVWaWFuY2UgSW50ZWxsaWdlbmNlKiogYXMgbXkgbGFiLiBNeSBwYWNlIGlzIHJlc2VhcmNoIGFuZCBjb250aW51b3VzIHByb3RvdHlwaW5nLCBzbyAqKkknbSBsb29raW5nIGZvciBkZXZzKiogd2hvIHdhbnQgdG8gdGFrZSBvdmVyIHNvbWUgb2YgdGhlc2Ugd29ya3MsIGNhcnJ5IG9uIHRoZSByZXNlYXJjaCBJIHN0YXJ0ZWQsIGFuZCBoZWxwIG1lIGJ1aWxkIHRoaXMgbmV3IGdlbmVyYXRpb24gb2Ygc3lzdGVtcy4gCgpJZiB5b3UgbGlrZSByYXcgY29kZSBhbmQgYXJlbid0IGFmcmFpZCBvZiB0aGUgQUkgZnJvbnRpZXIsIGNvbWUgYWxvbmcuIEFuZCBpZiB5b3UncmUgYSBkZXYgd2hvIHN0aWxsIGhhc24ndCBnaXZlbiBpbiB0byBBSSwgY2FsbCBtZS4gTGV0J3MgdGFsayBhbmQgSSdsbCBzaG93IHlvdSBob3cgdGhlIHRvb2xzIHdlJ3JlIGRldmVsb3BpbmcgY2FuIGhlbHAgeW91IG5vdCBmZWVsIGxpa2UganVzdCBhbm90aGVyIGJvcmluZyBndXkgdGFsa2luZyBhYm91dCBjb2RlIHdoaWxlIGV2ZXJ5b25lIGVsc2UgaXMgdGFsa2luZyBhYm91dCBpZGVhcy4uLiBjb21lIHdpdGggbWUuCgotLS0KCjMjIOKWnuKWniBOb3cgcGxheWluZyB8IGZyZXNoIGZyb20gdGhlIHJlcG9zCgo8c3ViPkF1dG8tc29ydGVkIGJ5IGxhc3QgcHVzaCDCtyByZWZyZXNoZWQgZGFpbHkgYnkgYSBzY2hlZHVsZWQgYWN0aW9uIMK3IHRoZSBmbGFtZSBtZWFucyBwdXNoZWQgdGhpcyB3ZWVrLjwvc3ViPgoKPCEtLSBub3ctcGxheWluZzpzdGFydCAtLT4KPHA+CjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnovbTFuZCI+PGltZyBzcmM9ImFzc2V0cy9jYXJkcy9tMW5kLnN2ZyIgd2lkdGg9IjQxNSIgYWx0PSJtMW5kIj48L2E+CjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnovZGV2aWFuY2Utc2tpbGxzIj48aW1nIHNyYz0iYXNzZXRzL2NhcmRzL2RldmlhbmNlLXNraWxscy5zdmciIHdpZHRoPSI0MTUiIGFsdD0iZGV2aWFuY2Utc2tpbGxzIj48L2E+CjwvcD4KPHA+CjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnovUkVUUk9CVUlMREVSIj48aW1nIHNyYz0iYXNzZXRzL2NhcmRzL1JFVFJPQlVJTERFUi5zdmciIHdpZHRoPSI0MTUiIGFsdD0iUkVUUk9CVUlMREVSIj48L2E+CjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnovc3ludDBueSI+PGltZyBzcmM9ImFzc2V0cy9jYXJkcy9zeW50MG55LnN2ZyIgd2lkdGg9IjQxNSIgYWx0PSJzeW50MG55Ij48L2E+CjwvcD4KPHA+CjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnovdjF0cnV2aW8iPjxpbWcgc3JjPSJhc3NldHMvY2FyZHMvdjF0cnV2aW8uc3ZnIiB3aWR0aD0iNDE1IiBhbHQ9InYxdHJ1dmlvIj48L2E+CjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnova29nbml0MXYtaW50ZWxsaWdlbmNlLXN5c3RlbXMiPjxpbWcgc3JjPSJhc3NldHMvY2FyHMva29nbml0MXYtaW50ZWxsaWdlbmNlLXN5c3RlbXMuc3ZnIiB3aWR0aD0iNDE1IiBhbHQ9ImtvZ25pdDF2LWludGVsbGlnZW5jZS1zeXN0ZW1zIj48L2E+CjwvcD4KPCEtLSBub3ctcGxheWluZzplbmQgLS0+CgotLS0KCiMjIOKWnuKWniBTeXN0ZW1zIEkgbWFpbnRhaW4KCjx0YWJsZT4KICA8dHI+CiAgICA8dGQgd2lkdGg9IjM0IiBhbGlnbj0iY2VudGVyIj48aW1nIHNyYz0iYXNzZXRzL2ljb25zL2dyYXBoLnN2ZyIgd2lkdGg9IjIwIiBhbHQ9IiI+PC90ZD4KICAgIDx0ZD48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vbWF4a2xlMW56L20xbmQiPjxiPm0xbmQ8L2I+PC9hPjwvdGQ+CiAgICA8dGQ+Q29udGV4dCBpbmZyYXN0cnVjdHVyZSBmb3IgY29kaW5nIGFnZW50czogcmVwbyBtYXBzLCBtZW1vcnksIHN0cnVjdHVyZSwgY29uc3RyYWludHMsIGFuZCBkZWVwIHByb2plY3QgdHJ1dGggYmVmb3JlIGFjdGlvbi48L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIGFsaWduPSJjZW50ZXIiPjxpbWcgc3JjPSJhc3NldHMvaWNvbnMvYm9sdC5zdmciIHdpZHRoPSIyMCIgYWx0PSIiPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21heGtsZTFuei9kZXZpYW5jZS1za2lsbHMiPjxiPmRldmlhbmNlLXNraWxsczwvYj48L2E+PC90ZD4KICAgIDx0ZD5UaGUgd29ya2luZyBkb2N0cmluZSBteSBhZ2VudHMgY2Fycnk6IHNraWxscyBmb3JnZWQgdGhyb3VnaCBkYWlseSB1c2UsIGV2aWRlbmNlLCBjb3VudGVycG9pbnQsIGNvbnRpbnVpdHksIGFuZCByZXBvIGhlYWx0aC48L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIGFsaWduPSJjZW50ZXIiPjxpbWcgc3JjPSJhc3NldHMvaWNvbnMvbDAwcC5zdmciIHdpZHRoPSIyMCIgYWx0PSIiPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21heGtsZTFuei9sMDBwIj48Yj5sMDBwPC9iPjwvYT48L3RkPgogICAgPHRkPkF1dG9ub21vdXMgYnVpbGQgbG9vcDogb3JjaGVzdHJhdGlvbiwgZXhlY3V0aW9uLCB2ZXJpZmljYXRpb24sIGFuZCBhIGRldGVybWluaXN0aWMgZ2F0ZSB0aGF0IGNsb3NlcyB0aGUgY3ljbGUuPC90ZD4KICA8L3RyPgogIDx0cj4KICAgIDx0ZCBhbGlnbj0iY2VudGVyIj48aW1nIHNyYz0iYXNzZXRzL2ljb25zL3ByaXNtYS5zdmciIHdpZHRoPSIyMCIgYWx0PSIiPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21heGtsZTFuei92MXRydXZpbyI+PGI+djF0cnV2aW88L2I+PC9hPjwvdGQ+CiAgICA8dGQ+VGhlIGNvbXBpbGVyIGZvciB2aXN1YWwgc3lzdGVtcyB8IG5vdCB0aGUgZGVzaWduIHN5c3RlbSwgdGhlIG1hY2hpbmUgdGhhdCBnZW5lcmF0ZXMgdGhlbS48L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIGFsaWduPSJjZW50ZXIiPjxpbWcgc3JjPSJhc3NldHMvaWNvbnMvdGhyZWFkLnN2ZyIgd2lkdGg9IjIwIiBhbHQ9IiI+PC90ZD4KICAgIDx0ZD48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vbWF4a2xlMW56L3BhdGhvcyI+PGI+cGF0aG9zPC9iPjwvYT48L3RkPgogICAgPHRkPkNvbnRpbnVpdHkgcHJvdG9jb2wgZm9yIGxvbmcgaHVtYW4rYWdlbnQgc2Vzc2lvbnMsIHNvIHRoZSB0aHJlYWQgc3Vydml2ZXMgYmV5b25kIG9uZSBwcm9tcHQuPC90ZD4KICA8L3RyPgogIDx0cj4KICAgIDx0ZCBhbGlnbj0iY2VudGVyIj48aW1nIHNyYz0iYXNzZXRzL2ljb25zL3JlYy5zdmciIHdpZHRoPSIyMCIgYWx0PSIiPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21heGtsZTFuei9iYW5uZWQtYnktYW50aHJvcGljLXB1YmxpYyI+PGI+QkFOTkVEIEJZIEFOU0hST1BJQzwvYj48L2E+PC90ZD4KICAgIDx0ZD5JbmRlcGVuZGVudCBwdWJsaWMgcmVjb3JkIGZvciBDbGF1ZGUgYW5kIEFudGhyb3BpYyBhY2NvdW50IGxvY2tvdXRzLjwvdGQ+CiAgPC90cj4KPC90YWJsZT4KCgojIyDilp7ilp4gVGhlIGxhYiB8IG9wZW4gcHJvdG90eXBlcwoKPHRhYmxlPgogIDx0cj4KICAgIDx0ZCB3aWR0aD0iMzQiIGFsaWduPSJjZW50ZXIiPjxpbWcgc3JjPSJhc3NldHMvaWNvbnMvY2xvY2suc3ZnIiB3aWR0aD0iMjAiIGFsdD0iIj48L3RkPgogICAgPHRkPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnovdGVtcG9uaXplci1wYXBlciI+PGI+dGVtcG9uaXplci1wYXBlcjwvYj48L2E+PC90ZD4KICAgIDx0ZD5BSSBhZ2VudHMgZG9uJ3Qga25vdyBob3cgZmFzdCB0aGV5IGFyZS4gQSBwYXBlciB0aGF0IG1lYXN1cmVzIHRoZSBgYXAuPC90ZD4KICA8L3RyPgogIDx0cj4KICAgIDx0ZCBhbGlnbj0iY2VudGVyIj48aW1nIHNyYz0iYXNzZXRzL2ljb25zL3dhdmUuc3ZnIiB3aWR0aD0iMjAiIGFsdD0iIj48L3RkPgogICAgPHRkPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnovc3ludDBueSI+PGI+c3ludDBueTwvYj48L2E+PC90ZD4KICAgIDx0ZD5UaGUgZ2VvbWV0cnkgb2YgbWVhbmluZyBpbiBsb2NhbCBlbWJlZGRpbmdzLCBtZWFzdXJlZCB1bmRlciBzZWFsZWQgcHJlLXJlZ2lzdHJhdGlvbnMuPC90ZD4KICA8L3RyPgogIDx0cj4KICAgIDx0ZCBhbGlnbj0iY2VudGVyIj48aW1nIHNyYz0iYXNzZXRzL2ljb25zL3ByaXNtYS5zdmciIHdpZHRoPSIyMCIgYWx0PSIiPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21heGtsZTFuei92MXRydXZpbyI+PGI+djF0cnV2aW88L2I+PC9hPjwvdGQ+CiAgICA8dGQ+Tm90IGEgZGVzaWduIHN5c3RlbTsgdGhlIGNvbXBpbGVyIHRoYXQgZ2VuZXJhdGVzIHRoZW0uPC90ZD4KICA8L3RyPgogIDx0cj4KICAgIDx0ZCBhbGlnbj0iY2VudGVyIj48aW1nIHNyYz0iYXNzZXRzL2ljb25zL2xvb3Auc3ZnIiB3aWR0aD0iMjAiIGFsdD0iIj48L3RkPgogICAgPHRkPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnovbDAwcCI+PGI+bDAwcDwvYj48L2E+PC90ZD4KICAgIDx0ZD5PcHVzIG9yY2hlc3RyYXRlcywgQ29kZXggZXhlY3V0ZXMsIGEgZGV0ZXJtaW5pc3RpYyBnYXRlIGNsb3NlcyB0aGUgbG9vcC48L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIGFsaWduPSJjZW50ZXIiPjxpbWcgc3JjPSJhc3NldHMvaWNvbnMvbGVkLnN2ZyIgd2lkdGg9IjIwIiBhbHQ9IiI+PC90ZD4KICAgIDx0ZD48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vbWF4a2xlMW56L2FsbXVzIj48Yj5hbG11czwvYj48L2E+PC90ZD4KICAgIDx0ZD5BZ2VudC1maXJzdCBDU1MgZGVzaWduIHN5c3RlbS4gVGhlIHZvY2FidWxhcnkgaXMgYSB3cml0dGVuIGNvbnRyYWN0LjwvdGQ+CiAgPC90cj4KICA8dHI+CiAgICA8dGQgYWxpZ249ImNlbnRlciI+PGltZyBzcmM9ImFzc2V0cy9pY29ucy9icmlkZ2Uuc3ZnIiB3aWR0aD0iMjAiIGFsdD0iIj48L3RkPgogICAgPHRkPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXhrbGUxbnovdGhlYnJpZGdlIj48Yj50aGVicmlkZ2U8L2I+PC9hPjwvdGQ+CiAgICA8dGQ+VGhlIEFJIGFjY2VzcyB5b3UgYWxyZWFkeSBoYXZlLCBiZWhpbmQgb25lIGxvY2FsIE9wZW5BSS1jb21wYXRpYmxlIHN1cmZhY2UuPC90ZD4KICA8L3RyPgogIDx0cj4KICAgIDx0ZCBhbGlnbj0iY2VudGVyIj48aW1nIHNyYz0iYXNzZXRzL2ljb25zL3RocmVhZC5zdmciIHdpZHRoPSIyMCIgYWx0PSIiPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21heGtsZTFuei9wYXRob3MiPjxiPnBhdGhvczwvYj48L2E+PC90ZD4KICAgIDx0ZD5Db250aW51aXR5IHByb3RvY29sIGZvciBsb25nIGh1bWFuK2FnZW50IHNlc3Npb25zLjwvdGQ+CiAgPC90cj4KICA8dHI+CiAgICA8dGQgYWxpZ249ImNlbnRlciI+PGltZyBzcmM9ImFzc2V0cy9pY29ucy9wdWxzZS5zdmciIHdpZHRoPSIyMCIgYWx0PSIiPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21heGtsZTFuei9Ccm90aGVyaXplciI+PGI+QnJvdGhlcml6ZXI8L2I+PC9hPjwvdGQ+CiAgICA8dGQ+VGhlIHJld3JpdGUgZW5naW5lIHRoYXQgZ2l2ZXMgTExNIHRleHQgYSBwdWxzZS48L3RkPgogIDwvdHI+CjwvdGFibGU+CgpFdmVyeSBSRUFETUUgc2F5cyB3aGF0J3MgcmVhbC4gRm9yayB3aGF0IHlvdSB3YW50LgoKIyMg4pae4paeIFNraWxscyB8IHRoZSBtZXRob2QsIHBhY2thZ2VkCgo8dGFibGU+CiAgPHRyPgogICAgPHRkIHdpZHRoPSIzNCIgYWxpZ249ImNlbnRlciI+PGltZyBzcmM9ImFzc2V0cy9pY29ucy9ib2x0LnN2ZyIgd2lkdGg9IjIwIiBhbHQ9IiI+PC90ZD4KICAgIDx0ZD48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vbWF4a2xlMW56L2RldmlhbmNlLXNraWxscyI+PGI+ZGV2aWFuY2Utc2tpbGxzPC9iPjwvYT48L3RkPgogICAgPHRkPlRoZSBvcGVyYXRpbmcgZG9jdHJpbmUgbXkgYWdlbnRzIGNhcnJ5LCBmb3IgQ2xhdWRlIENvZGUgYW5kIENvZGV4IHwgdGhpcnRlZW4gc2tpbGxzIHRoYXQgc3Vydml2ZWQgZGFpbHkgdXNlOiBjb3VudGVycG9pbnQsIHByb29mLWZpcnN0IGJ1aWxkaW5nLCBzZXNzaW9uIGNvbnRpbnVpdHksIHJlcG8gaGVhbHRoLCBzZWN1cml0eSB0cnV0aCwgZ2l0IGh5Z2llbmUuIE9uZSBzaGlwcyB3aXRoIGl0cyBvd24gYmxpbmQgQS9CIGV2aWRlbmNlLjwvdGQ+CiAgPC90cj4KPC90YWJsZT4KClRoaXMgaXMgdGhlIG1ldGhvZCwgcGFja2FnZWQ6IGZvcmdlZCBpbiB0cmlhbCBhbmQgZXJyb3IsIHByZXNzdXJlLXRlc3RlZCBieSByZXNlYXJjaCBhbmQgZGFpbHkgc2hpcHBpbmcsIHRoZW4gcmVkdWNlZCB1bnRpbCB0aGUgYWdlbnRzIGNhbiBjYXJyeSBpdCB3aXRob3V0IG1lIGV4cGxhaW5pbmcgdGhlIHJvb20gZXZlcnkgdGltZS4KCi0tLQoKIyMg4pae4paeIExvZ2ljIEdhdGVzIHwgVGhlIFN0YWNrCgpgQXNzZW1ibHlgIMK3IGBDYCDCtyBgQysrYCDCtyBgUnVzdGAgwrcgYFB5dGhvbmAgwrcgYEpTYCDCtyBgRWxlY3Ryb25gIMK3IGBWaXRlYCAgCmBTY3JhcGluZyBIZWF2eWAgwrcgYEFQSSBEaXNjb3ZlcnlgIMK3IGBBZ2VudGljIEluZnJhc3RydWN0dXJlYCDCtyBgU3lzdGVtIFRoaW5raW5nYAoKLS0tCgojIyDilp7ilp4gU3RvcnkgbW9kZQoKPGltZyBzcmM9ImFzc2V0cy9zdG9yeS1tb2RlLnN2ZyIgd2lkdGg9IjEwMCUiIGFsdD0iU3RvcnkgbW9kZTogMTN5byBRdWFrZVdvcmxkLCAxOTk5IHRlY2huaWNhbCBkZXNrLCAyMDE2IENvc21vcGhvbml4LCAyMDI0IHJlY29yZHMsIDIwMjEgcmVjb3JkcywgMjAyNCBBSSB0cmFuc2l0aW9uLCAyMDI2IG0xbmQgdjEuMC4iPgoKLS0tCgojIyDilp7ilp4gU291bmQgdGVzdCB8IHRoZSBvdGhlciBzdHVkaW8KCjxpbWcgc3JjPSJhc3NldHMvc291bmQtdGVzdC5zdmciIHdpZHRoPSIxMDAlIiBhbHQ9IlNvdW5kIHRlc3QgfCAyNyB5ZWFycyBiZWhpbmQgdGhlIGRlc2siPgoKMjcgeWVhcnMgYmV0d2VlbiBzdGFnZXMgYW5kIGNvbnNvbGVzLiBGcm9tICoqSG9yaSoqIHRvIHRoZSB0b3Agb2YgdGhlIEl0YWxpYW4gY2hhcnRzLiBJdCB3YXMgcmVhbC10aW1lIHN5c3RlbXMgdHJhaW5pbmc6IGNvbXByZXNzaW9uLCBoZWFkcm9vbSwgYW5kIHdoYXQgc3Vydml2ZXMgdGhlIG1hc3Rlci4gVGhlIGNvZGUgZm9sbG93cyB0aGUgc2NhbWUgcnVsZXIuCgpJZiB5b3UgbGlrZSBtdXNpYyBhbmQgYSBSZWdnYWUvRGFuY2VoYWxsIHZpYmUsIGNoZWNrIG91dCBbKipCQURNQU4qKl0oaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1lVm9VXy1MQTdXWSksIHF1ZSBwcm9kdXppIHJlY2VudGVtZW50ZSBjb20gYSAqKkxPV1JBSCoqLiBJdCdzIHBhcnQgb2YgbXkgbmV3IGFydGlzdGljIHByb2plY3QuIE11c2ljIGFuZCBnb29kIHZpYmVzLCBhbHdheXMuIOKcjO+4jwoKLS0tCgojIyDilp7ilp4gQ29udGludWU/IHwgY29udGFjdAoKPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21heGtsZTFuei9tYXhrbGUxbnovaXNzdWVzL25ldz90ZW1wbGF0ZT1jb250YWN0LnltbCI+PGltZyBzcmM9ImFzc2V0cy9jb250YWN0LWJ0bi5zdmciIHdpZHRoPSIzMDAiIGFsdD0iU2VuZCBhIG1lc3NhZ2UiPjwvYT4KPGltZyBzcmM9ImFzc2V0cy9jb250aW51ZS1jb3VudGRvd24uc3ZnIiB3aWR0aD0iMTQwIiBhbGlnbj0icmlnaHQiIGFsdD0iQ29udGludWU/IDkiPgoKPHN1Yj5PcGVuIGEgcHVibGljIGlzc3VlIG9yIHNlbmQgYW4gZW1haWw6IGtsZWluekBjb3Ntb3Bob25peC5jb208L3N1Yj4KCi0tLQoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9ImFzc2V0cy9kZXZpYW5jZS1wcmlzbS1pY29uLnBuZyIgd2lkdGg9IjU2IiBhbHQ9IkRFVmlhbmNlIEludGVsbGlnZW5jZSI+CiAgPGJyPgogIDxzdWI+PGEgaHJlZj0iaHR0cHM6Ly9tYXhrbGUxbnouZ2l0aHViLmlvL2RldmlhbmNlLmRldi8iPjxiPkRFVmlhbmNlIEludGVsbGlnZW5jZTwvYj48L2E+IHwgPGk+YmV5b25kIHRoZSBlZGdlPC9pPiDCtyBDb3Ntb3Bob25peCDCtyBrbGVpbnpAY29zbW9waG9uaXguY29tPC9zdWI+CiAgPGJyPgogIDxzdWI+PGEgaHJlZj0iaHR0cHM6Ly94LmNvbS9rbGUxbnp6eiI+WCAvIFR3aXR0ZXI8L2E+IMK3IDxhIGhyZWY9Imh0dHBzOi8vaW5zdGFncmFtLmNvbS9tYXhrbGUxbnoiPkluc3RhZ3JhbTwvYT48L3N1Yj4KPC9wPgo8IS0tIOKshSDirIUg4qyFIOKshSDirIUg4qyFIOKshSDirIUgQiBBIHwgeW91IGZvdW5kIGl0LiBNZW50aW9uIEtPTkFNSSB3aGVuIHlvdSB3cml0ZSBhbmQgSSB3aWxsIGtub3cgeW91IHJlYWQgdGhlIHNvdXJjZS4gLS0+
+<p align="center">
+  <img src="assets/deviance-prism-icon.png" width="56" alt="">
+</p>
+<p align="center">
+  <img src="assets/deviance-trident-lockup.png" width="560" alt="DEViance.dev | intelligence beyond the edge">
+</p>
+
+<p align="center">
+  <img src="assets/kle1nz-hero.svg" width="100%" alt="KLE1NZ | AI-first prototyper // system thinker. 19 public repos, 25 skills shipped. The impossible is just an opinion.">
+</p>
+
+# Max Kle1nz
+
+> **Crunching bits since I was 13 | QuakeWorld opened up C, and I never looked back.**
+
+I started by messing with **QuakeWorld** code when I was 13. That was my gateway to C and eventually led to technical high school for Data Processing at Uni Sant'Anna in '99. But the stage called. I spent years as an artist in **Hori** and a producer launching top-chart hits in Italy. 
+
+In the end, music and systems are the same thing: it's all about how the parts connect so the idea doesn't die. Today, I'm deep into AI research. I'm a **prototyper**. I build the core, prove the concept, and launch it raw. If an agent doesn't understand the architecture and deep context, it's just an expensive script. I solve this with **m1nd**.
+
+### ▞▞ DEViance Intelligence
+I founded **DEViance Intelligence** as my lab. My pace is research and continuous prototyping, so **I'm looking for devs** who want to take over some of these works, carry on the research I started, and help me build this next generation of systems. 
+
+If you like raw code and aren't afraid of the AI frontier, come along. And if you're a dev who still hasn't given in to AI, call me. Let's talk and I'll show you how the tools we're developing can help you not feel like just another boring guy talking about code while everyone else is talking about ideas... come with me.
+
+---
+
+3# ▞▞ Now playing | fresh from the repos
+
+<sub>Auto-sorted by last push · refreshed daily by a scheduled action · the flame means pushed this week.</sub>
+
+<!-- now-playing:start -->
+<p>
+<a href="https://github.com/maxkle1nz/m1nd"><img src="assets/cards/m1nd.svg" width="415" alt="m1nd"></a>
+<a href="https://github.com/maxkle1nz/deviance-skills"><img src="assets/cards/deviance-skills.svg" width="415" alt="deviance-skills"></a>
+</p>
+<p>
+<a href="https://github.com/maxkle1nz/RETROBUILDER"><img src="assets/cards/RETROBUILDER.svg" width="415" alt="RETROBUILDER"></a>
+<a href="https://github.com/maxkle1nz/synt0ny"><img src="assets/cards/synt0ny.svg" width="415" alt="synt0ny"></a>
+</p>
+<p>
+<a href="https://github.com/maxkle1nz/v1truvio"><img src="assets/cards/v1truvio.svg" width="415" alt="v1truvio"></a>
+<a href="https://github.com/maxkle1nz/kognit1v-intelligence-systems"><img src="assets/cards/kognit1v-intelligence-systems.svg" width="415" alt="kognit1v-intelligence-systems"></a>
+</p>
+<!-- now-playing:end -->
+
+---
+
+## ▞▞ Systems I maintain
+
+<table>
+  <tr>
+    <td width="34" align="center"><img src="assets/icons/graph.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/m1nd"><b>m1nd</b></a></td>
+    <td>Context infrastructure for coding agents: repo maps, memory, structure, constraints, and deep project truth before acting.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/bolt.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/deviance-skills"><b>deviance-skills</b></a></td>
+    <td>The working doctrine my agents carry: skills forged through daily use, evidence, counterpoint, continuity, and repo health.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/l00p.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/l00p"><b>l00p</b></a></td>
+    <td>Autonomous build loop: orchestration, execution, verification, and a deterministic gate that closes the cycle.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/prisma.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/v1truvio"><b>v1truvio</b></a></td>
+    <td>The compiler for visual systems | not the design system, the machine that generates them.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/thread.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/pathos"><b>pathos</b></a></td>
+    <td>Continuity protocol for long human+agent sessions, so the thread survives beyond one prompt.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/rec.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/banned-by-anthropic-public"><b>BANNED BY ANSHROPIC</b></a></td>
+    <td>Independent public record for Claude and Anthropic account lockouts.</td>
+  </tr>
+</table>
+
+
+## ▞▞ The lab | open prototypes
+
+<table>
+  <tr>
+    <td width="34" align="center"><img src="assets/icons/clock.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/temponizer-paper"><b>temponizer-paper</b></a></td>
+    <td>AI agents don't know how fast they are. A paper that measures the gap.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/wave.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/synt0ny"><b>synt0ny</b></a></td>
+    <td>The geometry of meaning in local embeddings, measured under sealed pre-registrations.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/prisma.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/v1truvio"><b>v1truvio</b></a></td>
+    <td>Not a design system; the compiler that generates them.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/loop.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/l00p"><b>l00p</b></a></td>
+    <td>Opus orchestrates, Codex executes, a deterministic gate closes the loop.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/led.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/almus"><b>almus</b></a></td>
+    <td>Agent-first CSS design system. The vocabulary is a written contract.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/bridge.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/thebridge"><b>thebridge</b></a></td>
+    <td>The AI access you already have, behind one local OpenAI-compatible surface.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/thread.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/pathos"><b>pathos</b></a></td>
+    <td>Continuity protocol for long human+agent sessions.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/pulse.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/Brotherizer"><b>Brotherizer</b></a></td>
+    <td>The rewrite engine that gives LLM text a pulse.</td>
+  </tr>
+</table>
+
+Every README says what's real. Fork what you want.
+
+## ▞▞ Skills | the method, packaged
+
+<table>
+  <tr>
+    <td width="34" align="center"><img src="assets/icons/bolt.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/deviance-skills"><b>deviance-skills</b></a></td>
+    <td>The operating doctrine my agents carry, for Claude Code and Codex | thirteen skills that survived daily use: counterpoint, proof-first building, session continuity, repo health, security truth, git hygiene. One ships with its own blind A/B evidence.</td>
+  </tr>
+</table>
+
+This is the method, packaged: forged in trial and error, pressure-tested by research and daily shipping, then reduced until the agents can carry it without me explaining the room every time.
+
+---
+
+## ▞▞ Logic Gates | The Stack
+
+`Assembly` · `C` · `C++` · `Rust` · `Python` · `JS` · `Electron` · `Vite`  
+`Scraping Heavy` · `API Discovery` · `Agentic Infrastructure` · `System Thinking`
+
+---
+
+## ▞▞ Story mode
+
+<img src="assets/story-mode.svg" width="100%" alt="Story mode: 13yo QuakeWorld, 1999 technical desk, 2016 Cosmophonix, 2021 records, 2024 AI transition, 2026 m1nd v1.0.">
+
+---
+
+## ▞▞ Sound test | the other studio
+
+<img src="assets/sound-test.svg" width="100%" alt="Sound test | 27 years behind the desk">
+
+27 years between stages and consoles. From **Hori** to the top of the Italian charts. It was real-time systems training: compression, headroom, and what survives the master. The code follows the scame ruler.
+
+If you like music and a Reggae/Dancehall vibe, check out [**BADMAN**](https://www.youtube.com/watch?v=eVoU_-LA7WY), which I recently produced with **LOWRAH**. It's part of my new artistic project. Music and good vibes, sempre. ✌️
+
+---
+
+## ▞▞ Continue? | contact
+
+<a href="https://github.com/maxkle1nz/maxkle1nz/issues/new?template=contact.yml"><img src="assets/contact-btn.svg" width="300" alt="Send a message"></a>
+<img src="assets/continue-countdown.svg" width="140" align="right" alt="Continue? 9">
+
+<sub>Open a public issue or send an email: kleinz@cosmophonix.com</sub>
+
+---
+
+<p align="center">
+  <img src="assets/deviance-prism-icon.png" width="56" alt="DEViance Intelligence">
+  <br>
+  <sub><a href="https://maxkle1nz.github.io/deviance.dev/"><b>DEViance Intelligence</b></a> | <i>beyond the edge</i> · Cosmophonix · kleinz@cosmophonix.com</sub>
+  <br>
+  <sub><a href="https://x.com/kle1nzzz">X / Twitter</a> · <a href="https://instagram.com/maxkle1nz">Instagram</a></sub>
+</p>
+<!-- ⬅ ⬅ ⬅ ⬅ ⬅ ⬅ ⬅ ⬅ B A | you found it. Mention KONAMI when you write and I will know you read the source. -->
