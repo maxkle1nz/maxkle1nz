@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Refuse to run on an encoded README
+        run: |
+          # 2026-07-29 incident: the README was committed base64-encoded and the
+          # panel markers became invisible. Fail loudly instead of working blind.
+          head -c 200 README.md | grep -q "<p align=" || {
+            echo "::error::README.md does not start with markdown (encoded or corrupt?). Refusing to refresh."; exit 1; }
       - name: Regenerate cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
