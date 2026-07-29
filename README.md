@@ -75,7 +75,7 @@ If you like raw code and aren't afraid of the AI frontier, come along. And if yo
   </tr>
   <tr>
     <td align="center"><img src="assets/icons/rec.svg" width="20" alt=""></td>
-    <td><a href="https://github.com/maxkle1nz/banned-by-anthropic-public"><b>BANNED BY ANSHROPIC</b></a></td>
+    <td><a href="https://github.com/maxkle1nz/banned-by-anthropic-public"><b>BANNED BY ANTHROPIC</b></a></td>
     <td>Independent public record for Claude and Anthropic account lockouts.</td>
   </tr>
 </table>
