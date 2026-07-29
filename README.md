@@ -55,7 +55,6 @@ You may be our kind of person if:
 <a href="https://github.com/maxkle1nz/synt0ny"><img src="assets/cards/synt0ny.svg" width="415" alt="synt0ny"></a>
 </p>
 <p>
-<a href="https://github.com/maxkle1nz/v1truvio"><img src="assets/cards/v1truvio.svg" width="415" alt="v1truvio"></a>
 <a href="https://github.com/maxkle1nz/kognit1v-intelligence-systems"><img src="assets/cards/kognit1v-intelligence-systems.svg" width="415" alt="kognit1v-intelligence-systems"></a>
 </p>
 <!-- now-playing:end -->
@@ -69,7 +68,6 @@ You may be our kind of person if:
 | [m1nd](https://github.com/maxkle1nz/m1nd) | A neuro-symbolic code graph that gives coding agents structural memory and calibrated trust. |
 | [deviance-skills](https://github.com/maxkle1nz/deviance-skills) | Field-tested operating doctrine for Claude Code and Codex. |
 | [RETROBUILDER](https://github.com/maxkle1nz/RETROBUILDER) | Software archaeology for hidden coupling, ghost edges, and safer refactors. |
-| [v1truvio](https://github.com/maxkle1nz/v1truvio) | A compiler for visual identities with taste, proof, and anti-cliché gates. |
 | [synt0ny](https://github.com/maxkle1nz/synt0ny) | Research into the geometry of meaning without an LLM in the hot path. |
 | [pathos](https://github.com/maxkle1nz/pathos) | Continuity for long human + agent work. |
 
