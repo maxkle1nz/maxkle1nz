@@ -31,14 +31,15 @@ If you like raw code and aren't afraid of the AI frontier, come along. And if yo
 <!-- now-playing:start -->
 <p>
 <a href="https://github.com/maxkle1nz/m1nd"><img src="assets/cards/m1nd.svg" width="415" alt="m1nd"></a>
+<a href="https://github.com/maxkle1nz/deviance.dev"><img src="assets/cards/deviance.dev.svg" width="415" alt="deviance.dev"></a>
+</p>
+<p>
+<a href="https://github.com/maxkle1nz/Brotherizer"><img src="assets/cards/Brotherizer.svg" width="415" alt="Brotherizer"></a>
+<a href="https://github.com/maxkle1nz/almus"><img src="assets/cards/almus.svg" width="415" alt="almus"></a>
+</p>
+<p>
 <a href="https://github.com/maxkle1nz/deviance-skills"><img src="assets/cards/deviance-skills.svg" width="415" alt="deviance-skills"></a>
-</p>
-<p>
-<a href="https://github.com/maxkle1nz/RETROBUILDER"><img src="assets/cards/RETROBUILDER.svg" width="415" alt="RETROBUILDER"></a>
-<a href="https://github.com/maxkle1nz/synt0ny"><img src="assets/cards/synt0ny.svg" width="415" alt="synt0ny"></a>
-</p>
-<p>
-<a href="https://github.com/maxkle1nz/kognit1v-intelligence-systems"><img src="assets/cards/kognit1v-intelligence-systems.svg" width="415" alt="kognit1v-intelligence-systems"></a>
+<a href="https://github.com/maxkle1nz/temponizer-paper"><img src="assets/cards/temponizer-paper.svg" width="415" alt="temponizer-paper"></a>
 </p>
 <!-- now-playing:end -->
 
