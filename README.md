@@ -51,7 +51,7 @@ If you like raw code and aren't afraid of the AI frontier, come along. And if yo
   <tr>
     <td width="34" align="center"><img src="assets/icons/bridge.svg" width="20" alt=""></td>
     <td><a href="https://github.com/maxkle1nz/wingman-agy"><b>Wingman AGY</b></a> <sub><b>NEW</b></sub></td>
-    <td>A wingman for your terminal agent: Claude Code or Codex hands work to Gemini agents in Antigravity, on your own Google plan.</td>
+    <td>A command-line bridge to Google Antigravity: you, Claude Code or Codex start Antigravity agents on your own Google plan, plus the Gemini API from the shell.</td>
   </tr>
   <tr>
     <td width="34" align="center"><img src="assets/icons/graph.svg" width="20" alt=""></td>
