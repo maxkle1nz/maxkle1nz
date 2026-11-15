@@ -30,16 +30,16 @@ If you like raw code and aren't afraid of the AI frontier, come along. And if yo
 
 <!-- now-playing:start -->
 <p>
+<a href="https://github.com/maxkle1nz/wingman-agy"><img src="assets/cards/wingman-agy.svg" width="415" alt="wingman-agy"></a>
 <a href="https://github.com/maxkle1nz/m1nd"><img src="assets/cards/m1nd.svg" width="415" alt="m1nd"></a>
+</p>
+<p>
 <a href="https://github.com/maxkle1nz/deviance-skills"><img src="assets/cards/deviance-skills.svg" width="415" alt="deviance-skills"></a>
-</p>
-<p>
 <a href="https://github.com/maxkle1nz/deviance.dev"><img src="assets/cards/deviance.dev.svg" width="415" alt="deviance.dev"></a>
-<a href="https://github.com/maxkle1nz/Brotherizer"><img src="assets/cards/Brotherizer.svg" width="415" alt="Brotherizer"></a>
 </p>
 <p>
+<a href="https://github.com/maxkle1nz/Brotherizer"><img src="assets/cards/Brotherizer.svg" width="415" alt="Brotherizer"></a>
 <a href="https://github.com/maxkle1nz/almus"><img src="assets/cards/almus.svg" width="415" alt="almus"></a>
-<a href="https://github.com/maxkle1nz/temponizer-paper"><img src="assets/cards/temponizer-paper.svg" width="415" alt="temponizer-paper"></a>
 </p>
 <!-- now-playing:end -->
 
