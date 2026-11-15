@@ -49,6 +49,11 @@ If you like raw code and aren't afraid of the AI frontier, come along. And if yo
 
 <table>
   <tr>
+    <td width="34" align="center"><img src="assets/icons/bridge.svg" width="20" alt=""></td>
+    <td><a href="https://github.com/maxkle1nz/wingman-agy"><b>Wingman AGY</b></a> <sub><b>NEW</b></sub></td>
+    <td>A wingman for your terminal agent: Claude Code or Codex hands work to Gemini agents in Antigravity, on your own Google plan.</td>
+  </tr>
+  <tr>
     <td width="34" align="center"><img src="assets/icons/graph.svg" width="20" alt=""></td>
     <td><a href="https://github.com/maxkle1nz/m1nd"><b>m1nd</b></a></td>
     <td>Context infrastructure for coding agents: repo maps, memory, structure, constraints, and deep project truth before acting.</td>
